@@ -1,0 +1,12 @@
+[
+{"symbol": "ROP", "company": "Roper Technologies I...", "price": "350.00", "change": "+11.27%", "volumne": "122"},
+{"symbol": "DGX", "company": "Quest Diagnostics In...", "price": "124.74", "change": "+7.52%", "volumne": "37,026"},
+{"symbol": "KSS", "company": "Kohls Corp", "price": "19.99", "change": "+7.47%", "volumne": "232,065"},
+{"symbol": "SPG", "company": "Simon Property Group...", "price": "61.22", "change": "+7.05%", "volumne": "53,194"},
+{"symbol": "CCL", "company": "Carnival Corp", "price": "13.88", "change": "+6.93%", "volumne": "1,344,563"},
+{"symbol": "OKE", "company": "ONEOK Inc", "price": "26.75", "change": "-6.21%", "volumne": "7,885"},
+{"symbol": "WAT", "company": "Waters Corp", "price": "185.99", "change": "-4.63%", "volumne": "141"},
+{"symbol": "UPS", "company": "United Parcel Servic...", "price": "98.75", "change": "-3.71%", "volumne": "208,313"},
+{"symbol": "CNC", "company": "Centene Corp", "price": "69.00", "change": "-2.57%", "volumne": "14,922"},
+{"symbol": "MRK", "company": "Merck & Co Inc", "price": "81.88", "change": "-2.50%", "volumne": "104,788"}
+]

@@ -1,0 +1,12 @@
+[
+{"symbol": "CLX", "company": "Clorox Co", "price": "193.00", "change": "+3.52%", "volumne": "88,100"},
+{"symbol": "EMN", "company": "Eastman Chemical Co", "price": "61.43", "change": "+1.52%", "volumne": "164"},
+{"symbol": "BA", "company": "Boeing Co", "price": "143.01", "change": "+1.41%", "volumne": "757,283"},
+{"symbol": "WHR", "company": "Whirlpool Corp", "price": "113.00", "change": "+1.13%", "volumne": "100"},
+{"symbol": "BKR", "company": "Baker Hughes Co", "price": "14.00", "change": "+0.36%", "volumne": "11,983"},
+{"symbol": "RCL", "company": "Royal Caribbean Crui...", "price": "43.35", "change": "-7.31%", "volumne": "273,593"},
+{"symbol": "HP", "company": "Helmerich and Payne ...", "price": "18.49", "change": "-6.47%", "volumne": "2,009"},
+{"symbol": "NCLH", "company": "Norwegian Cruise Lin...", "price": "15.34", "change": "-6.46%", "volumne": "661,322"},
+{"symbol": "HRB", "company": "H & R Block Inc", "price": "15.61", "change": "-6.25%", "volumne": "155"},
+{"symbol": "MGM", "company": "MGM Resorts Internat...", "price": "15.79", "change": "-6.18%", "volumne": "242,219"}
+]

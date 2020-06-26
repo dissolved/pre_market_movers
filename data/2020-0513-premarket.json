@@ -1,0 +1,12 @@
+[
+{"symbol": "LH", "company": "Laboratory Corporati...", "price": "168.09", "change": "+2.91%", "volumne": "55,648"},
+{"symbol": "TMO", "company": "Thermo Fisher Scient...", "price": "339.99", "change": "+2.49%", "volumne": "2,545"},
+{"symbol": "RCL", "company": "Royal Caribbean Crui...", "price": "37.01", "change": "+1.84%", "volumne": "411,862"},
+{"symbol": "GPN", "company": "Global Payments Inc", "price": "170.00", "change": "+1.60%", "volumne": "296"},
+{"symbol": "APTV", "company": "Aptiv PLC", "price": "65.53", "change": "+1.59%", "volumne": "254"},
+{"symbol": "PVH", "company": "PVH Corp", "price": "40.19", "change": "-4.65%", "volumne": "2,589"},
+{"symbol": "CARR", "company": "Carrier Global Corp", "price": "17.25", "change": "-3.09%", "volumne": "3,055"},
+{"symbol": "FTI", "company": "TechnipFMC PLC", "price": "7.35", "change": "-2.39%", "volumne": "9,766"},
+{"symbol": "SEE", "company": "Sealed Air Corp", "price": "28.66", "change": "-2.35%", "volumne": "112"},
+{"symbol": "JNPR", "company": "Juniper Networks Inc...", "price": "22.86", "change": "-2.27%", "volumne": "3,384"}
+]

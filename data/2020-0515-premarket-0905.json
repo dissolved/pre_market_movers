@@ -1,0 +1,12 @@
+[
+{"symbol": "NEM", "company": "Newmont Corporation", "price": "67.72", "change": "+1.62%", "volumne": "13,679"},
+{"symbol": "CAH", "company": "Cardinal Health Inc", "price": "48.00", "change": "+1.48%", "volumne": "550"},
+{"symbol": "COTY", "company": "Coty Inc", "price": "3.40", "change": "+1.19%", "volumne": "51,789"},
+{"symbol": "CPB", "company": "Campbell Soup Co", "price": "53.48", "change": "+0.96%", "volumne": "222"},
+{"symbol": "PNC", "company": "PNC Financial Servic...", "price": "98.76", "change": "+0.94%", "volumne": "226"},
+{"symbol": "VFC", "company": "VF Corp", "price": "53.00", "change": "-4.40%", "volumne": "4,111"},
+{"symbol": "CTVA", "company": "Corteva Inc", "price": "22.30", "change": "-4.37%", "volumne": "200"},
+{"symbol": "KSS", "company": "Kohls Corp", "price": "16.10", "change": "-3.54%", "volumne": "32,828"},
+{"symbol": "NCLH", "company": "Norwegian Cruise Lin...", "price": "10.40", "change": "-3.35%", "volumne": "466,865"},
+{"symbol": "SYF", "company": "Synchrony Financial", "price": "16.50", "change": "-3.34%", "volumne": "1,270"}
+]

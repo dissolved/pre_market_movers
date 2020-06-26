@@ -1,0 +1,12 @@
+[
+{"symbol": "MRO", "company": "Marathon Oil Corp", "price": "6.35", "change": "+8.55%", "volumne": "859,970"},
+{"symbol": "APA", "company": "Apache Corp", "price": "13.76", "change": "+5.44%", "volumne": "509,122"},
+{"symbol": "PH", "company": "Parker-Hannifin Corp...", "price": "165.00", "change": "+5.19%", "volumne": "1,111"},
+{"symbol": "NOW", "company": "ServiceNow Inc", "price": "338.12", "change": "+5.01%", "volumne": "15,746"},
+{"symbol": "HAL", "company": "Halliburton Co", "price": "11.51", "change": "+4.45%", "volumne": "411,404"},
+{"symbol": "TAP", "company": "Molson Coors Beverag...", "price": "43.00", "change": "-6.87%", "volumne": "8,762"},
+{"symbol": "TWTR", "company": "Twitter Inc", "price": "29.18", "change": "-6.14%", "volumne": "5,868,872"},
+{"symbol": "PRGO", "company": "Perrigo Company PLC", "price": "51.75", "change": "-4.75%", "volumne": "3,227"},
+{"symbol": "MCO", "company": "Moody's Corp", "price": "243.00", "change": "-4.70%", "volumne": "3,511"},
+{"symbol": "FTI", "company": "TechnipFMC PLC", "price": "8.84", "change": "-4.64%", "volumne": "37,204"}
+]

@@ -1,0 +1,12 @@
+[
+{"symbol": "GPS", "company": "Gap Inc", "price": "11.60", "change": "+14.17%", "volumne": "306,851"},
+{"symbol": "TPR", "company": "Tapestry Inc", "price": "12.90", "change": "+2.38%", "volumne": "26,172"},
+{"symbol": "DVN", "company": "Devon Energy Corp", "price": "11.94", "change": "+2.05%", "volumne": "969"},
+{"symbol": "AES", "company": "AES Corp", "price": "14.14", "change": "+1.87%", "volumne": "100"},
+{"symbol": "CNC", "company": "Centene Corp", "price": "64.34", "change": "+1.55%", "volumne": "963"},
+{"symbol": "IR", "company": "Ingersoll Rand Inc", "price": "25.51", "change": "-7.47%", "volumne": "189"},
+{"symbol": "GS", "company": "Goldman Sachs Group ...", "price": "198.94", "change": "-3.94%", "volumne": "61,916"},
+{"symbol": "RF", "company": "Regions Financial Co...", "price": "11.24", "change": "-3.52%", "volumne": "14,774"},
+{"symbol": "NKE", "company": "Nike Inc", "price": "97.85", "change": "-3.50%", "volumne": "140,422"},
+{"symbol": "WFC", "company": "Wells Fargo & Co", "price": "26.46", "change": "-3.32%", "volumne": "328,994"}
+]

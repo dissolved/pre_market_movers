@@ -1,0 +1,12 @@
+[
+{"symbol": "HST", "company": "Host Hotels & Resort...", "price": "11.86", "change": "+4.31%", "volumne": "459"},
+{"symbol": "DD", "company": "Dupont De Nemours In...", "price": "39.90", "change": "+4.01%", "volumne": "13,267"},
+{"symbol": "CHD", "company": "Church & Dwight Co I...", "price": "75.00", "change": "+1.97%", "volumne": "504"},
+{"symbol": "RMD", "company": "Resmed Inc", "price": "167.48", "change": "+1.40%", "volumne": "102"},
+{"symbol": "JNPR", "company": "Juniper Networks Inc...", "price": "22.80", "change": "+1.02%", "volumne": "5,412"},
+{"symbol": "STT", "company": "State Street Corp", "price": "51.01", "change": "-12.79%", "volumne": "112"},
+{"symbol": "APA", "company": "Apache Corp", "price": "7.62", "change": "-10.25%", "volumne": "290,908"},
+{"symbol": "OXY", "company": "Occidental Petroleum...", "price": "12.27", "change": "-9.98%", "volumne": "1,022,446"},
+{"symbol": "MRO", "company": "Marathon Oil Corp", "price": "3.96", "change": "-8.97%", "volumne": "687,594"},
+{"symbol": "MPC", "company": "Marathon Petroleum C...", "price": "23.31", "change": "-8.41%", "volumne": "27,886"}
+]

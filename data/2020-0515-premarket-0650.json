@@ -1,0 +1,12 @@
+[
+{"symbol": "APA", "company": "Apache Corp", "price": "10.85", "change": "+4.73%", "volumne": "4,836"},
+{"symbol": "CCL", "company": "Carnival Corp", "price": "12.73", "change": "+3.75%", "volumne": "170,064"},
+{"symbol": "MGM", "company": "MGM Resorts Internat...", "price": "13.95", "change": "+3.18%", "volumne": "6,108"},
+{"symbol": "NCLH", "company": "Norwegian Cruise Lin...", "price": "11.10", "change": "+3.16%", "volumne": "34,949"},
+{"symbol": "RCL", "company": "Royal Caribbean Crui...", "price": "36.23", "change": "+3.07%", "volumne": "9,736"},
+{"symbol": "ABT", "company": "Abbott Laboratories", "price": "89.03", "change": "-3.00%", "volumne": "3,605"},
+{"symbol": "NKE", "company": "Nike Inc", "price": "86.25", "change": "-0.35%", "volumne": "363"},
+{"symbol": "LIN", "company": "Linde PLC", "price": "178.84", "change": "-0.23%", "volumne": "2,355"},
+{"symbol": "F", "company": "Ford Motor Co", "price": "4.88", "change": "-0.20%", "volumne": "789"},
+{"symbol": "DIS", "company": "Walt Disney Co", "price": "105.70", "change": "-0.20%", "volumne": "6,913"}
+]

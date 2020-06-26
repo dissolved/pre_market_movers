@@ -1,0 +1,12 @@
+[
+{"symbol": "KR", "company": "Kroger Co", "price": "32.55", "change": "+0.90%", "volumne": "29,288"},
+{"symbol": "HRB", "company": "H & R Block Inc", "price": "18.00", "change": "+0.73%", "volumne": "1,434"},
+{"symbol": "CLX", "company": "Clorox Co", "price": "206.00", "change": "+0.43%", "volumne": "1,503"},
+{"symbol": "WMT", "company": "Walmart Inc", "price": "118.18", "change": "+0.38%", "volumne": "37,278"},
+{"symbol": "JNJ", "company": "Johnson & Johnson", "price": "142.45", "change": "+0.21%", "volumne": "23,816"},
+{"symbol": "NCLH", "company": "Norwegian Cruise Lin...", "price": "18.36", "change": "-10.44%", "volumne": "1,953,090"},
+{"symbol": "RCL", "company": "Royal Caribbean Crui...", "price": "55.30", "change": "-9.61%", "volumne": "356,932"},
+{"symbol": "CCL", "company": "Carnival Corp", "price": "18.15", "change": "-9.16%", "volumne": "1,404,857"},
+{"symbol": "SLG", "company": "SL Green Realty Corp...", "price": "47.60", "change": "-8.81%", "volumne": "916"},
+{"symbol": "KSU", "company": "Kansas City Southern...", "price": "135.00", "change": "-8.33%", "volumne": "221"}
+]

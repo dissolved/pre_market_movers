@@ -1,0 +1,12 @@
+[
+{"symbol": "COTY", "company": "Coty Inc", "price": "4.21", "change": "+12.27%", "volumne": "574,659"},
+{"symbol": "CCL", "company": "Carnival Corp", "price": "15.93", "change": "+10.17%", "volumne": "1,438,362"},
+{"symbol": "NCLH", "company": "Norwegian Cruise Lin...", "price": "15.15", "change": "+8.99%", "volumne": "1,328,466"},
+{"symbol": "RCL", "company": "Royal Caribbean Crui...", "price": "46.91", "change": "+8.74%", "volumne": "303,893"},
+{"symbol": "LUV", "company": "Southwest Airlines C...", "price": "31.15", "change": "+7.90%", "volumne": "384,223"},
+{"symbol": "DGX", "company": "Quest Diagnostics In...", "price": "110.56", "change": "-2.01%", "volumne": "738"},
+{"symbol": "NEM", "company": "Newmont Corporation", "price": "62.50", "change": "-0.87%", "volumne": "16,599"},
+{"symbol": "CHD", "company": "Church & Dwight Co I...", "price": "71.62", "change": "-0.43%", "volumne": "207"},
+{"symbol": "CLX", "company": "Clorox Co", "price": "198.45", "change": "-0.07%", "volumne": "9,091"},
+{"symbol": "PGR", "company": "Progressive Corp", "price": "74.69", "change": "-0.04%", "volumne": "311"}
+]

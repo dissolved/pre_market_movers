@@ -1,0 +1,12 @@
+[
+{"symbol": "MRO", "company": "Marathon Oil Corp", "price": "8.50", "change": "+16.12%", "volumne": "1,310,067"},
+{"symbol": "CCL", "company": "Carnival Corp", "price": "24.73", "change": "+14.97%", "volumne": "4,246,682"},
+{"symbol": "NCLH", "company": "Norwegian Cruise Lin...", "price": "25.17", "change": "+12.22%", "volumne": "3,595,131"},
+{"symbol": "OXY", "company": "Occidental Petroleum...", "price": "23.11", "change": "+11.16%", "volumne": "4,996,182"},
+{"symbol": "APA", "company": "Apache Corp", "price": "17.75", "change": "+10.45%", "volumne": "884,869"},
+{"symbol": "IFF", "company": "International Flavor...", "price": "134.00", "change": "-2.80%", "volumne": "2,054"},
+{"symbol": "PAYC", "company": "Paycom Software Inc", "price": "327.46", "change": "-0.70%", "volumne": "347"},
+{"symbol": "PHM", "company": "PulteGroup Inc", "price": "36.52", "change": "-0.54%", "volumne": "530"},
+{"symbol": "CLX", "company": "Clorox Co", "price": "196.51", "change": "-0.54%", "volumne": "2,822"},
+{"symbol": "DGX", "company": "Quest Diagnostics In...", "price": "116.51", "change": "-0.50%", "volumne": "297"}
+]

@@ -1,0 +1,12 @@
+[
+{"symbol": "LYV", "company": "Live Nation Entertai...", "price": "43.00", "change": "+18.13%", "volumne": "46,427"},
+{"symbol": "AON", "company": "Aon PLC", "price": "209.38", "change": "+12.42%", "volumne": "104"},
+{"symbol": "LNC", "company": "Lincoln National Cor...", "price": "30.99", "change": "+12.16%", "volumne": "1,038"},
+{"symbol": "DRI", "company": "Darden Restaurants I...", "price": "64.90", "change": "+11.94%", "volumne": "10,620"},
+{"symbol": "PSX", "company": "Phillips 66", "price": "59.47", "change": "+11.10%", "volumne": "2,712"},
+{"symbol": "NEM", "company": "Newmont Corporation", "price": "57.70", "change": "-3.67%", "volumne": "15,178"},
+{"symbol": "CLX", "company": "Clorox Co", "price": "194.25", "change": "-1.14%", "volumne": "2,606"},
+{"symbol": "GIS", "company": "General Mills Inc", "price": "60.00", "change": "-1.14%", "volumne": "2,484"},
+{"symbol": "WMT", "company": "Walmart Inc", "price": "131.02", "change": "-0.99%", "volumne": "21,626"},
+{"symbol": "CPB", "company": "Campbell Soup Co", "price": "50.97", "change": "-0.27%", "volumne": "363"}
+]

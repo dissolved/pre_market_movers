@@ -1,0 +1,12 @@
+[
+{"symbol": "NEM", "company": "Newmont Corporation", "price": "58.24", "change": "+1.87%", "volumne": "42,605"},
+{"symbol": "MGM", "company": "MGM Resorts Internat...", "price": "22.46", "change": "+1.81%", "volumne": "858,423"},
+{"symbol": "DVA", "company": "DaVita Inc", "price": "86.00", "change": "+1.78%", "volumne": "270"},
+{"symbol": "BBY", "company": "Best Buy Co Inc", "price": "82.43", "change": "+1.68%", "volumne": "4,979"},
+{"symbol": "HWM", "company": "Howmet Aerospace Inc...", "price": "16.27", "change": "+1.50%", "volumne": "3,591"},
+{"symbol": "NCLH", "company": "Norwegian Cruise Lin...", "price": "22.71", "change": "-5.88%", "volumne": "2,351,339"},
+{"symbol": "OXY", "company": "Occidental Petroleum...", "price": "22.02", "change": "-5.00%", "volumne": "899,915"},
+{"symbol": "AVB", "company": "AvalonBay Communitie...", "price": "166.41", "change": "-4.48%", "volumne": "713"},
+{"symbol": "CARR", "company": "Carrier Global Corp", "price": "22.30", "change": "-3.92%", "volumne": "25,296"},
+{"symbol": "DVN", "company": "Devon Energy Corp", "price": "14.12", "change": "-2.96%", "volumne": "132,635"}
+]

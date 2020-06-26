@@ -1,0 +1,12 @@
+[
+{"symbol": "AMCR", "company": "Amcor PLC", "price": "10.30", "change": "+3.00%", "volumne": "276"},
+{"symbol": "NEM", "company": "Newmont Corporation", "price": "60.20", "change": "+2.52%", "volumne": "8,277"},
+{"symbol": "EMR", "company": "Emerson Electric Co", "price": "62.48", "change": "+2.38%", "volumne": "101"},
+{"symbol": "WM", "company": "Waste Management Inc...", "price": "109.00", "change": "+2.35%", "volumne": "376"},
+{"symbol": "PPL", "company": "PPL Corp", "price": "27.97", "change": "+1.93%", "volumne": "3,147"},
+{"symbol": "ALB", "company": "Albemarle Corp", "price": "68.86", "change": "-9.31%", "volumne": "234"},
+{"symbol": "DXC", "company": "DXC Technology Co", "price": "15.50", "change": "-6.46%", "volumne": "18,616"},
+{"symbol": "NCLH", "company": "Norwegian Cruise Lin...", "price": "15.47", "change": "-3.73%", "volumne": "339,168"},
+{"symbol": "CRM", "company": "Salesforce.Com Inc", "price": "175.35", "change": "-3.18%", "volumne": "14,978"},
+{"symbol": "FTI", "company": "TechnipFMC PLC", "price": "7.45", "change": "-2.99%", "volumne": "2,010"}
+]

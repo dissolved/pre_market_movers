@@ -1,0 +1,12 @@
+[
+{"symbol": "GPN", "company": "Global Payments Inc", "price": "178.50", "change": "+6.92%", "volumne": "19,564"},
+{"symbol": "GM", "company": "General Motors Co", "price": "22.72", "change": "+6.87%", "volumne": "824,543"},
+{"symbol": "HWM", "company": "Howmet Aerospace Inc...", "price": "12.66", "change": "+3.69%", "volumne": "800"},
+{"symbol": "UA", "company": "Under Armour Inc", "price": "8.77", "change": "+3.66%", "volumne": "260"},
+{"symbol": "HIG", "company": "Hartford Financial S...", "price": "36.35", "change": "+3.38%", "volumne": "300"},
+{"symbol": "ANET", "company": "Arista Networks Inc", "price": "209.00", "change": "-5.19%", "volumne": "3,965"},
+{"symbol": "ZTS", "company": "Zoetis Inc", "price": "126.55", "change": "-3.62%", "volumne": "4,948"},
+{"symbol": "NOV", "company": "National Oilwell Var...", "price": "11.87", "change": "-3.57%", "volumne": "1,535"},
+{"symbol": "PRU", "company": "Prudential Financial...", "price": "57.00", "change": "-2.98%", "volumne": "5,211"},
+{"symbol": "HES", "company": "Hess Corp", "price": "45.40", "change": "-1.60%", "volumne": "805"}
+]

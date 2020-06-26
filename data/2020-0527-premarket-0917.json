@@ -1,0 +1,12 @@
+[
+{"symbol": "NCLH", "company": "Norwegian Cruise Lin...", "price": "17.85", "change": "+11.35%", "volumne": "2,893,151"},
+{"symbol": "CCL", "company": "Carnival Corp", "price": "18.02", "change": "+10.69%", "volumne": "5,044,640"},
+{"symbol": "RCL", "company": "Royal Caribbean Crui...", "price": "54.65", "change": "+10.27%", "volumne": "646,934"},
+{"symbol": "ALK", "company": "Alaska Air Group Inc...", "price": "38.55", "change": "+10.05%", "volumne": "62,134"},
+{"symbol": "ADS", "company": "Alliance Data System...", "price": "53.89", "change": "+9.04%", "volumne": "19,316"},
+{"symbol": "KEYS", "company": "Keysight Technologie...", "price": "98.15", "change": "-5.08%", "volumne": "11,391"},
+{"symbol": "TWTR", "company": "Twitter Inc", "price": "33.33", "change": "-2.00%", "volumne": "303,131"},
+{"symbol": "RL", "company": "Ralph Lauren Corp", "price": "80.37", "change": "-1.23%", "volumne": "48,282"},
+{"symbol": "NEM", "company": "Newmont Corporation", "price": "58.50", "change": "-1.20%", "volumne": "21,685"},
+{"symbol": "BFB", "company": "Brown-Forman Corp", "price": "63.00", "change": "-0.85%", "volumne": "122"}
+]

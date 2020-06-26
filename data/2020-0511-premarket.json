@@ -1,0 +1,12 @@
+[
+{"symbol": "COTY", "company": "Coty Inc", "price": "5.92", "change": "+13.85%", "volumne": "443,041"},
+{"symbol": "CAH", "company": "Cardinal Health Inc", "price": "54.45", "change": "+9.16%", "volumne": "63,258"},
+{"symbol": "L", "company": "Loews Corp", "price": "31.92", "change": "+2.90%", "volumne": "449"},
+{"symbol": "ETR", "company": "Entergy Corp", "price": "97.00", "change": "+2.09%", "volumne": "354"},
+{"symbol": "MCK", "company": "McKesson Corp", "price": "138.50", "change": "+1.86%", "volumne": "2,855"},
+{"symbol": "UAA", "company": "Under Armour Inc", "price": "9.29", "change": "-6.91%", "volumne": "79,802"},
+{"symbol": "UA", "company": "Under Armour Inc", "price": "8.47", "change": "-5.26%", "volumne": "70,017"},
+{"symbol": "CPRI", "company": "Capri Holdings Ltd", "price": "14.30", "change": "-4.73%", "volumne": "2,734"},
+{"symbol": "DFS", "company": "Discover Financial S...", "price": "41.10", "change": "-3.79%", "volumne": "12,316"},
+{"symbol": "KIM", "company": "Kimco Realty Corp", "price": "10.50", "change": "-3.67%", "volumne": "6,523"}
+]

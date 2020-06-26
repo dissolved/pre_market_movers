@@ -1,0 +1,12 @@
+[
+{"symbol": "MPC", "company": "Marathon Petroleum C...", "price": "42.00", "change": "+9.18%", "volumne": "211,219"},
+{"symbol": "HST", "company": "Host Hotels & Resort...", "price": "12.98", "change": "+6.39%", "volumne": "110"},
+{"symbol": "FTI", "company": "TechnipFMC PLC", "price": "8.27", "change": "+5.62%", "volumne": "16,826"},
+{"symbol": "OXY", "company": "Occidental Petroleum...", "price": "20.73", "change": "+5.39%", "volumne": "577,475"},
+{"symbol": "ADS", "company": "Alliance Data System...", "price": "51.30", "change": "+5.17%", "volumne": "8,770"},
+{"symbol": "ALB", "company": "Albemarle Corp", "price": "76.48", "change": "-2.96%", "volumne": "400"},
+{"symbol": "TIF", "company": "Tiffany & Co", "price": "119.01", "change": "-1.09%", "volumne": "101"},
+{"symbol": "CPB", "company": "Campbell Soup Co", "price": "48.65", "change": "-0.82%", "volumne": "180"},
+{"symbol": "UPS", "company": "United Parcel Servic...", "price": "106.92", "change": "-0.61%", "volumne": "3,432"},
+{"symbol": "PLD", "company": "Prologis Inc", "price": "94.52", "change": "-0.60%", "volumne": "1,527"}
+]

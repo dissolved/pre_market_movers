@@ -1,0 +1,11 @@
+[
+{"symbol": "NCLH", "company": "Norwegian Cruise Lin...", "price": "19.58", "change": "+13.51%", "volumne": "2,516,305"},
+{"symbol": "CCL", "company": "Carnival Corp", "price": "19.63", "change": "+12.56%", "volumne": "2,110,052"},
+{"symbol": "RCL", "company": "Royal Caribbean Crui...", "price": "60.01", "change": "+10.09%", "volumne": "452,976"},
+{"symbol": "ALK", "company": "Alaska Air Group Inc...", "price": "39.05", "change": "+9.72%", "volumne": "79,860"},
+{"symbol": "DAL", "company": "Delta Air Lines Inc", "price": "29.75", "change": "+9.38%", "volumne": "1,167,052"},
+{"symbol": "OKE", "company": "ONEOK Inc", "price": "32.66", "change": "-7.56%", "volumne": "2,273,352"},
+{"symbol": "PVH", "company": "PVH Corp", "price": "51.50", "change": "-2.31%", "volumne": "28,016"},
+{"symbol": "CLX", "company": "Clorox Co", "price": "203.73", "change": "-0.59%", "volumne": "3,324"},
+{"symbol": "JCI", "company": "Johnson Controls Int...", "price": "33.57", "change": "-0.15%", "volumne": "125"}
+]

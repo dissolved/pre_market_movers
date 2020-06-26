@@ -1,0 +1,12 @@
+[
+{"symbol": "ZBH", "company": "Zimmer Biomet Holdin...", "price": "129.75", "change": "+11.42%", "volumne": "416"},
+{"symbol": "FLS", "company": "Flowserve Corp", "price": "27.65", "change": "+8.31%", "volumne": "375"},
+{"symbol": "LH", "company": "Laboratory Corporati...", "price": "173.03", "change": "+5.69%", "volumne": "9,478"},
+{"symbol": "SEE", "company": "Sealed Air Corp", "price": "30.00", "change": "+5.30%", "volumne": "400"},
+{"symbol": "L", "company": "Loews Corp", "price": "34.00", "change": "+4.94%", "volumne": "2,150"},
+{"symbol": "HES", "company": "Hess Corp", "price": "40.03", "change": "-5.72%", "volumne": "408"},
+{"symbol": "APA", "company": "Apache Corp", "price": "10.16", "change": "-4.96%", "volumne": "391,681"},
+{"symbol": "OXY", "company": "Occidental Petroleum...", "price": "13.20", "change": "-4.42%", "volumne": "476,474"},
+{"symbol": "DVN", "company": "Devon Energy Corp", "price": "10.16", "change": "-3.42%", "volumne": "31,443"},
+{"symbol": "GM", "company": "General Motors Co", "price": "21.50", "change": "-2.05%", "volumne": "140,333"}
+]

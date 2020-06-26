@@ -1,0 +1,8 @@
+[
+{"symbol": "ES", "company": "Eversource Energy", "price": "86.76", "change": "+0.58%", "volumne": "9,585"},
+{"symbol": "NCLH", "company": "Norwegian Cruise Lin...", "price": "17.00", "change": "-17.68%", "volumne": "2,732,263"},
+{"symbol": "AAP", "company": "Advance Auto Parts I...", "price": "117.09", "change": "-16.59%", "volumne": "231"},
+{"symbol": "DAL", "company": "Delta Air Lines Inc", "price": "27.10", "change": "-14.35%", "volumne": "2,014,527"},
+{"symbol": "CCL", "company": "Carnival Corp", "price": "17.64", "change": "-14.33%", "volumne": "2,549,188"},
+{"symbol": "RCL", "company": "Royal Caribbean Crui...", "price": "54.91", "change": "-13.65%", "volumne": "519,024"}
+]

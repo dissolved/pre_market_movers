@@ -1,0 +1,12 @@
+[
+{"symbol": "BA", "company": "Boeing Co", "price": "156.86", "change": "+4.91%", "volumne": "937,091"},
+{"symbol": "SLG", "company": "SL Green Realty Corp...", "price": "45.00", "change": "+2.87%", "volumne": "413"},
+{"symbol": "MET", "company": "MetLife Inc", "price": "37.94", "change": "+2.73%", "volumne": "166"},
+{"symbol": "HST", "company": "Host Hotels & Resort...", "price": "12.86", "change": "+2.72%", "volumne": "4,688"},
+{"symbol": "MCK", "company": "McKesson Corp", "price": "159.34", "change": "+2.57%", "volumne": "233"},
+{"symbol": "HPQ", "company": "HP Inc", "price": "16.00", "change": "-6.54%", "volumne": "173,494"},
+{"symbol": "TWTR", "company": "Twitter Inc", "price": "31.50", "change": "-4.75%", "volumne": "734,339"},
+{"symbol": "IR", "company": "Ingersoll Rand Inc", "price": "29.00", "change": "-3.33%", "volumne": "126,230"},
+{"symbol": "EOG", "company": "EOG Resources Inc", "price": "51.14", "change": "-3.02%", "volumne": "371"},
+{"symbol": "HBI", "company": "HanesBrands Inc", "price": "11.00", "change": "-2.65%", "volumne": "2,569"}
+]

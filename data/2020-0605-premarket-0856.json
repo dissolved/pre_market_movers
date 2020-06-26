@@ -1,0 +1,12 @@
+[
+{"symbol": "NCLH", "company": "Norwegian Cruise Lin...", "price": "22.20", "change": "+13.32%", "volumne": "1,791,545"},
+{"symbol": "DAL", "company": "Delta Air Lines Inc", "price": "36.60", "change": "+13.03%", "volumne": "3,631,376"},
+{"symbol": "OXY", "company": "Occidental Petroleum...", "price": "17.42", "change": "+12.03%", "volumne": "847,846"},
+{"symbol": "CCL", "company": "Carnival Corp", "price": "20.68", "change": "+11.90%", "volumne": "2,378,491"},
+{"symbol": "ALK", "company": "Alaska Air Group Inc...", "price": "46.30", "change": "+9.40%", "volumne": "61,332"},
+{"symbol": "COO", "company": "Cooper Companies Inc...", "price": "289.00", "change": "-7.92%", "volumne": "555"},
+{"symbol": "NEM", "company": "Newmont Corporation", "price": "54.00", "change": "-3.40%", "volumne": "58,195"},
+{"symbol": "OTIS", "company": "Otis Worldwide Corp", "price": "55.10", "change": "-0.54%", "volumne": "347"},
+{"symbol": "LLY", "company": "Eli Lilly and Co", "price": "150.25", "change": "-0.31%", "volumne": "1,371"},
+{"symbol": "OMC", "company": "Omnicom Group Inc", "price": "57.80", "change": "-0.10%", "volumne": "107"}
+]

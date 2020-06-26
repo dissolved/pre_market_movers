@@ -1,0 +1,10 @@
+[
+{"symbol": "HWM", "company": "Howmet Aerospace Inc...", "price": "11.65", "change": "+10.01%", "volumne": "1,000"},
+{"symbol": "CMG", "company": "Chipotle Mexican Gri...", "price": "836.00", "change": "+6.27%", "volumne": "5,913"},
+{"symbol": "SYF", "company": "Synchrony Financial", "price": "15.79", "change": "+4.09%", "volumne": "220"},
+{"symbol": "TWTR", "company": "Twitter Inc", "price": "26.75", "change": "+3.88%", "volumne": "110,030"},
+{"symbol": "UAA", "company": "Under Armour Inc", "price": "9.90", "change": "+3.77%", "volumne": "1,120"},
+{"symbol": "D", "company": "Dominion Energy Inc", "price": "76.13", "change": "-0.63%", "volumne": "351"},
+{"symbol": "APH", "company": "Amphenol Corp", "price": "76.75", "change": "-0.22%", "volumne": "301"},
+{"symbol": "KMX", "company": "Carmax Inc", "price": "63.50", "change": "-0.13%", "volumne": "203"}
+]

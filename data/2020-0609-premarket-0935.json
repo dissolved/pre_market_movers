@@ -1,0 +1,12 @@
+[
+{"symbol": "OMC", "company": "Omnicom Group Inc", "price": "66.59", "change": "+4.21%", "volumne": "820"},
+{"symbol": "NEM", "company": "Newmont Corporation", "price": "56.76", "change": "+2.20%", "volumne": "46,265"},
+{"symbol": "TIF", "company": "Tiffany & Co", "price": "124.50", "change": "+1.90%", "volumne": "153,752"},
+{"symbol": "AMP", "company": "Ameriprise Financial...", "price": "164.99", "change": "+1.41%", "volumne": "106"},
+{"symbol": "MDT", "company": "Medtronic PLC", "price": "102.25", "change": "+0.91%", "volumne": "16,917"},
+{"symbol": "OXY", "company": "Occidental Petroleum...", "price": "21.96", "change": "-10.00%", "volumne": "2,179,530"},
+{"symbol": "DAL", "company": "Delta Air Lines Inc", "price": "34.38", "change": "-7.01%", "volumne": "2,267,401"},
+{"symbol": "APTV", "company": "Aptiv PLC", "price": "81.64", "change": "-6.70%", "volumne": "8,516"},
+{"symbol": "MRO", "company": "Marathon Oil Corp", "price": "7.88", "change": "-6.52%", "volumne": "554,609"},
+{"symbol": "CCL", "company": "Carnival Corp", "price": "23.32", "change": "-6.38%", "volumne": "3,591,887"}
+]

@@ -1,0 +1,12 @@
+[
+{"symbol": "NCLH", "company": "Norwegian Cruise Lin...", "price": "12.64", "change": "+5.33%", "volumne": "1,021,621"},
+{"symbol": "VTR", "company": "Ventas Inc", "price": "28.50", "change": "+5.24%", "volumne": "17,158"},
+{"symbol": "HOG", "company": "Harley-Davidson Inc", "price": "21.50", "change": "+5.19%", "volumne": "1,334"},
+{"symbol": "CFG", "company": "Citizens Financial G...", "price": "22.34", "change": "+5.11%", "volumne": "200"},
+{"symbol": "PNC", "company": "PNC Financial Servic...", "price": "105.92", "change": "+4.57%", "volumne": "200"},
+{"symbol": "MSI", "company": "Motorola Solutions I...", "price": "124.70", "change": "-8.45%", "volumne": "9,565"},
+{"symbol": "CNP", "company": "CenterPoint Energy I...", "price": "17.00", "change": "-4.55%", "volumne": "120"},
+{"symbol": "EOG", "company": "EOG Resources Inc", "price": "46.30", "change": "-4.16%", "volumne": "1,466"},
+{"symbol": "STZ", "company": "Constellation Brands...", "price": "162.51", "change": "-1.37%", "volumne": "2,497"},
+{"symbol": "CAG", "company": "Conagra Brands Inc", "price": "32.78", "change": "-1.17%", "volumne": "100"}
+]

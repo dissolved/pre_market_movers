@@ -1,0 +1,12 @@
+[
+{"symbol": "COTY", "company": "Coty Inc", "price": "5.12", "change": "+7.79%", "volumne": "821,749"},
+{"symbol": "SCHW", "company": "Charles Schwab Corp", "price": "41.85", "change": "+5.92%", "volumne": "712,633"},
+{"symbol": "BA", "company": "Boeing Co", "price": "181.25", "change": "+4.67%", "volumne": "1,881,269"},
+{"symbol": "ALK", "company": "Alaska Air Group Inc...", "price": "41.00", "change": "+4.33%", "volumne": "24,583"},
+{"symbol": "LUV", "company": "Southwest Airlines C...", "price": "37.96", "change": "+4.23%", "volumne": "557,305"},
+{"symbol": "SJM", "company": "J M Smucker Co", "price": "109.50", "change": "-4.44%", "volumne": "21,644"},
+{"symbol": "RCL", "company": "Royal Caribbean Crui...", "price": "55.92", "change": "-3.77%", "volumne": "719,649"},
+{"symbol": "GPS", "company": "Gap Inc", "price": "11.51", "change": "-3.68%", "volumne": "162,374"},
+{"symbol": "FTI", "company": "TechnipFMC PLC", "price": "8.62", "change": "-2.49%", "volumne": "12,546"},
+{"symbol": "GLW", "company": "Corning Inc", "price": "24.55", "change": "-2.39%", "volumne": "1,356"}
+]

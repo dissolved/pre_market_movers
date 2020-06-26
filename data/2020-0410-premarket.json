@@ -1,0 +1,12 @@
+[
+{"symbol": "ALK", "company": "Alaska Air Group Inc...", "price": "34.00", "change": "+7.56%", "volumne": "68,841"},
+{"symbol": "BWA", "company": "BorgWarner Inc", "price": "27.28", "change": "+5.98%", "volumne": "33,539"},
+{"symbol": "FTI", "company": "TechnipFMC PLC", "price": "8.88", "change": "+5.71%", "volumne": "43,000"},
+{"symbol": "SLB", "company": "Schlumberger NV", "price": "17.35", "change": "+5.34%", "volumne": "1,029,477"},
+{"symbol": "APA", "company": "Apache Corp", "price": "8.57", "change": "+4.51%", "volumne": "975,402"},
+{"symbol": "AIZ", "company": "Assurant Inc", "price": "92.89", "change": "-17.35%", "volumne": "2,877"},
+{"symbol": "HIG", "company": "Hartford Financial S...", "price": "38.70", "change": "-7.59%", "volumne": "74,407"},
+{"symbol": "AMCR", "company": "Amcor PLC", "price": "8.51", "change": "-7.10%", "volumne": "222,075"},
+{"symbol": "MTB", "company": "M&T Bank Corp", "price": "107.64", "change": "-6.20%", "volumne": "58,424"},
+{"symbol": "RL", "company": "Ralph Lauren Corp", "price": "76.16", "change": "-5.29%", "volumne": "14,865"}
+]

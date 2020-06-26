@@ -1,0 +1,12 @@
+[
+{"symbol": "LOW", "company": "Lowe's Companies Inc...", "price": "123.54", "change": "+5.71%", "volumne": "302,325"},
+{"symbol": "MGM", "company": "MGM Resorts Internat...", "price": "15.81", "change": "+4.29%", "volumne": "342,676"},
+{"symbol": "ETN", "company": "Eaton Corporation PL...", "price": "79.48", "change": "+4.11%", "volumne": "798"},
+{"symbol": "PVH", "company": "PVH Corp", "price": "43.34", "change": "+4.06%", "volumne": "9,062"},
+{"symbol": "OXY", "company": "Occidental Petroleum...", "price": "14.95", "change": "+4.04%", "volumne": "272,680"},
+{"symbol": "MCK", "company": "McKesson Corp", "price": "141.11", "change": "-2.43%", "volumne": "29,146"},
+{"symbol": "PAYC", "company": "Paycom Software Inc", "price": "276.00", "change": "-1.32%", "volumne": "7,593"},
+{"symbol": "BDX", "company": "Becton Dickinson and...", "price": "260.00", "change": "-1.22%", "volumne": "482"},
+{"symbol": "CNC", "company": "Centene Corp", "price": "66.77", "change": "-0.21%", "volumne": "12,776"},
+{"symbol": "PGR", "company": "Progressive Corp", "price": "75.81", "change": "-0.08%", "volumne": "1,505"}
+]

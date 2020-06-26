@@ -1,0 +1,12 @@
+[
+{"symbol": "COTY", "company": "Coty Inc", "price": "3.97", "change": "+9.37%", "volumne": "956,096"},
+{"symbol": "PWR", "company": "Quanta Services Inc", "price": "39.40", "change": "+6.69%", "volumne": "122"},
+{"symbol": "IPG", "company": "Interpublic Group of...", "price": "17.96", "change": "+4.97%", "volumne": "207"},
+{"symbol": "HWM", "company": "Howmet Aerospace Inc...", "price": "13.50", "change": "+3.21%", "volumne": "3,246"},
+{"symbol": "GPS", "company": "Gap Inc", "price": "9.16", "change": "+2.92%", "volumne": "140,488"},
+{"symbol": "PFE", "company": "Pfizer Inc", "price": "35.70", "change": "-6.52%", "volumne": "750,715"},
+{"symbol": "ABT", "company": "Abbott Laboratories", "price": "92.38", "change": "-2.68%", "volumne": "14,307"},
+{"symbol": "TXT", "company": "Textron Inc", "price": "30.30", "change": "-2.16%", "volumne": "458"},
+{"symbol": "TGT", "company": "Target Corp", "price": "120.00", "change": "-1.90%", "volumne": "43,014"},
+{"symbol": "COG", "company": "Cabot Oil & Gas Corp...", "price": "19.50", "change": "-1.71%", "volumne": "468"}
+]

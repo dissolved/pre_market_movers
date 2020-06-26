@@ -1,0 +1,12 @@
+[
+{"symbol": "LVS", "company": "Las Vegas Sands Corp...", "price": "45.17", "change": "+10.09%", "volumne": "321,820"},
+{"symbol": "UNP", "company": "Union Pacific Corp", "price": "156.50", "change": "+6.39%", "volumne": "18,343"},
+{"symbol": "HES", "company": "Hess Corp", "price": "41.78", "change": "+6.09%", "volumne": "5,143"},
+{"symbol": "NOV", "company": "National Oilwell Var...", "price": "12.40", "change": "+5.08%", "volumne": "1,711"},
+{"symbol": "EOG", "company": "EOG Resources Inc", "price": "45.30", "change": "+4.98%", "volumne": "11,805"},
+{"symbol": "IVZ", "company": "Invesco Ltd", "price": "8.68", "change": "-5.45%", "volumne": "19,185"},
+{"symbol": "SYY", "company": "Sysco Corp", "price": "49.15", "change": "-4.28%", "volumne": "17,336"},
+{"symbol": "PNW", "company": "Pinnacle West Capita...", "price": "74.77", "change": "-3.62%", "volumne": "251"},
+{"symbol": "HSY", "company": "Hershey Co", "price": "140.00", "change": "-2.29%", "volumne": "4,562"},
+{"symbol": "TSN", "company": "Tyson Foods Inc", "price": "58.90", "change": "-1.70%", "volumne": "8,330"}
+]

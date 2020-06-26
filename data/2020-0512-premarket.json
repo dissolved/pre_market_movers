@@ -1,0 +1,12 @@
+[
+{"symbol": "SPG", "company": "Simon Property Group...", "price": "61.50", "change": "+11.66%", "volumne": "145,581"},
+{"symbol": "IFF", "company": "International Flavor...", "price": "142.74", "change": "+7.62%", "volumne": "8,010"},
+{"symbol": "PNC", "company": "PNC Financial Servic...", "price": "106.99", "change": "+4.77%", "volumne": "21,928"},
+{"symbol": "UAA", "company": "Under Armour Inc", "price": "9.35", "change": "+3.77%", "volumne": "157,661"},
+{"symbol": "COTY", "company": "Coty Inc", "price": "4.93", "change": "+3.14%", "volumne": "62,412"},
+{"symbol": "NLSN", "company": "Nielsen Holdings PLC...", "price": "13.00", "change": "-6.73%", "volumne": "1,038"},
+{"symbol": "IR", "company": "Ingersoll Rand Inc", "price": "27.90", "change": "-4.09%", "volumne": "4,026"},
+{"symbol": "BLK", "company": "BlackRock Inc", "price": "477.49", "change": "-3.17%", "volumne": "6,949"},
+{"symbol": "AEE", "company": "Ameren Corp", "price": "69.95", "change": "-1.24%", "volumne": "335"},
+{"symbol": "LIN", "company": "Linde PLC", "price": "184.85", "change": "-1.08%", "volumne": "23,296"}
+]

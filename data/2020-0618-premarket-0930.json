@@ -1,0 +1,12 @@
+[
+{"symbol": "TAP", "company": "Molson Coors Beverag...", "price": "40.20", "change": "+3.69%", "volumne": "201"},
+{"symbol": "HES", "company": "Hess Corp", "price": "51.98", "change": "+3.11%", "volumne": "590"},
+{"symbol": "CHD", "company": "Church & Dwight Co I...", "price": "76.99", "change": "+2.15%", "volumne": "259"},
+{"symbol": "MET", "company": "MetLife Inc", "price": "38.48", "change": "+1.75%", "volumne": "4,036"},
+{"symbol": "LIN", "company": "Linde PLC", "price": "209.69", "change": "+1.07%", "volumne": "13,089"},
+{"symbol": "CCL", "company": "Carnival Corp", "price": "17.80", "change": "-6.76%", "volumne": "2,315,275"},
+{"symbol": "NCLH", "company": "Norwegian Cruise Lin...", "price": "18.37", "change": "-4.32%", "volumne": "1,559,146"},
+{"symbol": "EXR", "company": "Extra Space Storage ...", "price": "93.00", "change": "-4.11%", "volumne": "155"},
+{"symbol": "RCL", "company": "Royal Caribbean Crui...", "price": "55.90", "change": "-3.67%", "volumne": "335,265"},
+{"symbol": "DAL", "company": "Delta Air Lines Inc", "price": "29.78", "change": "-3.06%", "volumne": "837,091"}
+]

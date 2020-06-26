@@ -1,0 +1,12 @@
+[
+{"symbol": "ACN", "company": "Accenture PLC", "price": "212.38", "change": "+5.22%", "volumne": "25,940"},
+{"symbol": "PEAK", "company": "Healthpeak Propertie...", "price": "27.00", "change": "+3.89%", "volumne": "100"},
+{"symbol": "AMP", "company": "Ameriprise Financial...", "price": "148.00", "change": "+3.53%", "volumne": "609"},
+{"symbol": "LH", "company": "Laboratory Corporati...", "price": "159.00", "change": "+1.22%", "volumne": "391"},
+{"symbol": "BRKB", "company": "Berkshire Hathaway I...", "price": "179.38", "change": "+1.04%", "volumne": "15,088"},
+{"symbol": "NCLH", "company": "Norwegian Cruise Lin...", "price": "14.66", "change": "-7.22%", "volumne": "1,883,708"},
+{"symbol": "RCL", "company": "Royal Caribbean Crui...", "price": "45.35", "change": "-5.99%", "volumne": "571,763"},
+{"symbol": "CCL", "company": "Carnival Corp", "price": "15.05", "change": "-5.94%", "volumne": "1,753,025"},
+{"symbol": "BA", "company": "Boeing Co", "price": "169.13", "change": "-4.28%", "volumne": "1,171,990"},
+{"symbol": "MGM", "company": "MGM Resorts Internat...", "price": "16.22", "change": "-4.19%", "volumne": "416,502"}
+]

@@ -1,0 +1,12 @@
+[
+{"symbol": "INFO", "company": "IHS Markit Ltd", "price": "73.86", "change": "+1.50%", "volumne": "563"},
+{"symbol": "CMA", "company": "Comerica Inc", "price": "40.25", "change": "+1.05%", "volumne": "250"},
+{"symbol": "HRB", "company": "H & R Block Inc", "price": "15.91", "change": "+0.95%", "volumne": "357"},
+{"symbol": "XRX", "company": "Xerox Holdings Corp", "price": "16.47", "change": "+0.87%", "volumne": "5,350"},
+{"symbol": "RMD", "company": "Resmed Inc", "price": "183.42", "change": "+0.81%", "volumne": "1,062"},
+{"symbol": "CCL", "company": "Carnival Corp", "price": "17.03", "change": "-5.39%", "volumne": "798,343"},
+{"symbol": "NCLH", "company": "Norwegian Cruise Lin...", "price": "17.19", "change": "-4.66%", "volumne": "707,086"},
+{"symbol": "RCL", "company": "Royal Caribbean Crui...", "price": "52.10", "change": "-4.16%", "volumne": "252,121"},
+{"symbol": "MRO", "company": "Marathon Oil Corp", "price": "6.16", "change": "-2.69%", "volumne": "131,493"},
+{"symbol": "LB", "company": "L Brands Inc", "price": "14.30", "change": "-2.64%", "volumne": "783"}
+]

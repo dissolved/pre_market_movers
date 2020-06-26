@@ -1,0 +1,12 @@
+[
+{"symbol": "CFG", "company": "Citizens Financial G...", "price": "28.44", "change": "+4.41%", "volumne": "489"},
+{"symbol": "WHR", "company": "Whirlpool Corp", "price": "130.49", "change": "+3.30%", "volumne": "401"},
+{"symbol": "TPR", "company": "Tapestry Inc", "price": "15.45", "change": "+3.07%", "volumne": "557"},
+{"symbol": "DXC", "company": "DXC Technology Co", "price": "16.67", "change": "+2.77%", "volumne": "3,355"},
+{"symbol": "KSU", "company": "Kansas City Southern...", "price": "152.69", "change": "+2.75%", "volumne": "100"},
+{"symbol": "NCLH", "company": "Norwegian Cruise Lin...", "price": "18.91", "change": "-9.78%", "volumne": "2,530,607"},
+{"symbol": "SLG", "company": "SL Green Realty Corp...", "price": "50.00", "change": "-7.01%", "volumne": "650"},
+{"symbol": "RCL", "company": "Royal Caribbean Crui...", "price": "59.32", "change": "-5.09%", "volumne": "260,817"},
+{"symbol": "CCL", "company": "Carnival Corp", "price": "19.51", "change": "-4.46%", "volumne": "1,131,339"},
+{"symbol": "ORCL", "company": "Oracle Corp", "price": "52.80", "change": "-3.28%", "volumne": "49,362"}
+]

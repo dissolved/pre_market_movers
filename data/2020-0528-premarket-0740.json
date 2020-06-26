@@ -1,0 +1,12 @@
+[
+{"symbol": "BA", "company": "Boeing Co", "price": "158.14", "change": "+5.77%", "volumne": "309,233"},
+{"symbol": "NEM", "company": "Newmont Corporation", "price": "60.40", "change": "+2.84%", "volumne": "9,751"},
+{"symbol": "CRM", "company": "Salesforce.Com Inc", "price": "180.00", "change": "+1.93%", "volumne": "4,099"},
+{"symbol": "GE", "company": "General Electric Co", "price": "7.42", "change": "+1.78%", "volumne": "182,343"},
+{"symbol": "KSS", "company": "Kohls Corp", "price": "22.68", "change": "+1.75%", "volumne": "14,658"},
+{"symbol": "HPQ", "company": "HP Inc", "price": "16.03", "change": "-6.37%", "volumne": "36,883"},
+{"symbol": "TWTR", "company": "Twitter Inc", "price": "31.79", "change": "-3.87%", "volumne": "176,626"},
+{"symbol": "APA", "company": "Apache Corp", "price": "12.35", "change": "-1.83%", "volumne": "14,600"},
+{"symbol": "MRO", "company": "Marathon Oil Corp", "price": "6.06", "change": "-1.46%", "volumne": "7,617"},
+{"symbol": "COP", "company": "ConocoPhillips", "price": "44.08", "change": "-1.32%", "volumne": "282"}
+]

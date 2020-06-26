@@ -1,0 +1,12 @@
+[
+{"symbol": "TJX", "company": "TJX Companies Inc", "price": "53.55", "change": "+5.31%", "volumne": "461,459"},
+{"symbol": "AES", "company": "AES Corp", "price": "13.24", "change": "+2.08%", "volumne": "156"},
+{"symbol": "LUV", "company": "Southwest Airlines C...", "price": "29.70", "change": "+1.89%", "volumne": "236,209"},
+{"symbol": "HES", "company": "Hess Corp", "price": "48.18", "change": "+1.77%", "volumne": "981"},
+{"symbol": "CF", "company": "CF Industries Holdin...", "price": "27.99", "change": "+1.74%", "volumne": "150"},
+{"symbol": "UA", "company": "Under Armour Inc", "price": "6.98", "change": "-6.56%", "volumne": "240,161"},
+{"symbol": "UAA", "company": "Under Armour Inc", "price": "7.86", "change": "-4.61%", "volumne": "142,395"},
+{"symbol": "BSX", "company": "Boston Scientific Co...", "price": "35.55", "change": "-4.38%", "volumne": "23,126"},
+{"symbol": "KIM", "company": "Kimco Realty Corp", "price": "10.51", "change": "-4.11%", "volumne": "202"},
+{"symbol": "LNC", "company": "Lincoln National Cor...", "price": "34.15", "change": "-4.05%", "volumne": "100"}
+]

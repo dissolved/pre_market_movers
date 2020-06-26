@@ -1,0 +1,12 @@
+[
+{"symbol": "APTV", "company": "Aptiv PLC", "price": "67.99", "change": "+3.41%", "volumne": "467"},
+{"symbol": "MDT", "company": "Medtronic PLC", "price": "97.86", "change": "+2.86%", "volumne": "2,760"},
+{"symbol": "CBRE", "company": "CBRE Group Inc", "price": "40.43", "change": "+1.84%", "volumne": "358"},
+{"symbol": "NEM", "company": "Newmont Corporation", "price": "61.90", "change": "+1.49%", "volumne": "9,147"},
+{"symbol": "EIX", "company": "Edison International...", "price": "56.50", "change": "+1.45%", "volumne": "4,045"},
+{"symbol": "DAL", "company": "Delta Air Lines Inc", "price": "21.75", "change": "-9.83%", "volumne": "2,828,508"},
+{"symbol": "NCLH", "company": "Norwegian Cruise Lin...", "price": "12.63", "change": "-8.74%", "volumne": "821,274"},
+{"symbol": "ALK", "company": "Alaska Air Group Inc...", "price": "27.50", "change": "-8.67%", "volumne": "27,081"},
+{"symbol": "KIM", "company": "Kimco Realty Corp", "price": "9.70", "change": "-8.49%", "volumne": "427"},
+{"symbol": "CCL", "company": "Carnival Corp", "price": "12.86", "change": "-7.68%", "volumne": "1,750,673"}
+]

@@ -1,0 +1,12 @@
+[
+{"symbol": "CPRI", "company": "Capri Holdings Ltd", "price": "15.09", "change": "+8.72%", "volumne": "1,463"},
+{"symbol": "BWA", "company": "BorgWarner Inc", "price": "29.08", "change": "+7.62%", "volumne": "428"},
+{"symbol": "DVN", "company": "Devon Energy Corp", "price": "12.25", "change": "+7.27%", "volumne": "37,319"},
+{"symbol": "MRO", "company": "Marathon Oil Corp", "price": "6.23", "change": "+7.23%", "volumne": "452,185"},
+{"symbol": "APA", "company": "Apache Corp", "price": "12.90", "change": "+6.97%", "volumne": "278,244"},
+{"symbol": "UNM", "company": "Unum Group", "price": "15.24", "change": "-10.35%", "volumne": "11,864"},
+{"symbol": "NCLH", "company": "Norwegian Cruise Lin...", "price": "13.12", "change": "-9.11%", "volumne": "3,998,562"},
+{"symbol": "WRK", "company": "Westrock Co", "price": "28.79", "change": "-5.01%", "volumne": "22,316"},
+{"symbol": "TFC", "company": "Truist Financial Cor...", "price": "33.82", "change": "-4.88%", "volumne": "645"},
+{"symbol": "ITW", "company": "Illinois Tool Works ...", "price": "152.00", "change": "-4.00%", "volumne": "11,678"}
+]

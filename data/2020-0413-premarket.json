@@ -1,0 +1,12 @@
+[
+{"symbol": "OKE", "company": "ONEOK Inc", "price": "31.25", "change": "+10.04%", "volumne": "33,875"},
+{"symbol": "MRO", "company": "Marathon Oil Corp", "price": "4.47", "change": "+8.50%", "volumne": "885,522"},
+{"symbol": "NOV", "company": "National Oilwell Var...", "price": "12.50", "change": "+7.76%", "volumne": "2,759"},
+{"symbol": "MPC", "company": "Marathon Petroleum C...", "price": "27.45", "change": "+7.10%", "volumne": "41,391"},
+{"symbol": "APA", "company": "Apache Corp", "price": "8.75", "change": "+6.71%", "volumne": "678,431"},
+{"symbol": "NCLH", "company": "Norwegian Cruise Lin...", "price": "11.80", "change": "-9.99%", "volumne": "1,149,425"},
+{"symbol": "RCL", "company": "Royal Caribbean Crui...", "price": "37.02", "change": "-7.96%", "volumne": "798,343"},
+{"symbol": "DTE", "company": "DTE Energy Co", "price": "105.00", "change": "-5.62%", "volumne": "404"},
+{"symbol": "CCL", "company": "Carnival Corp", "price": "11.76", "change": "-5.31%", "volumne": "2,945,030"},
+{"symbol": "URI", "company": "United Rentals Inc", "price": "104.80", "change": "-2.70%", "volumne": "4,384"}
+]

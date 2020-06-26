@@ -1,0 +1,12 @@
+[
+{"symbol": "STE", "company": "Steris plc", "price": "151.01", "change": "+2.69%", "volumne": "102"},
+{"symbol": "LEG", "company": "Leggett & Platt Inc", "price": "25.06", "change": "+1.79%", "volumne": "5,159"},
+{"symbol": "COTY", "company": "Coty Inc", "price": "3.70", "change": "+1.09%", "volumne": "71,063"},
+{"symbol": "ADM", "company": "Archer Daniels Midla...", "price": "34.12", "change": "+0.83%", "volumne": "520"},
+{"symbol": "CVS", "company": "CVS Health Corp", "price": "61.65", "change": "+0.82%", "volumne": "11,485"},
+{"symbol": "CCL", "company": "Carnival Corp", "price": "11.56", "change": "-5.71%", "volumne": "993,838"},
+{"symbol": "FTI", "company": "TechnipFMC PLC", "price": "6.49", "change": "-5.67%", "volumne": "5,903"},
+{"symbol": "RCL", "company": "Royal Caribbean Crui...", "price": "32.65", "change": "-5.44%", "volumne": "225,597"},
+{"symbol": "MGM", "company": "MGM Resorts Internat...", "price": "12.02", "change": "-5.21%", "volumne": "239,822"},
+{"symbol": "SYF", "company": "Synchrony Financial", "price": "15.10", "change": "-4.85%", "volumne": "8,762"}
+]

@@ -1,0 +1,12 @@
+[
+{"symbol": "NCLH", "company": "Norwegian Cruise Lin...", "price": "14.59", "change": "+11.46%", "volumne": "1,166,026"},
+{"symbol": "CCL", "company": "Carnival Corp", "price": "15.74", "change": "+8.85%", "volumne": "3,329,783"},
+{"symbol": "LNC", "company": "Lincoln National Cor...", "price": "36.53", "change": "+8.37%", "volumne": "7,575"},
+{"symbol": "ALK", "company": "Alaska Air Group Inc...", "price": "33.90", "change": "+7.35%", "volumne": "31,355"},
+{"symbol": "DFS", "company": "Discover Financial S...", "price": "43.00", "change": "+7.34%", "volumne": "115,530"},
+{"symbol": "CPB", "company": "Campbell Soup Co", "price": "49.54", "change": "-2.82%", "volumne": "7,368"},
+{"symbol": "NOC", "company": "NORTHROP GRUMMAN COR...", "price": "337.00", "change": "-2.19%", "volumne": "2,014"},
+{"symbol": "WMT", "company": "Walmart Inc", "price": "125.70", "change": "-1.80%", "volumne": "83,344"},
+{"symbol": "T", "company": "AT&T Inc", "price": "30.12", "change": "-1.73%", "volumne": "136,161"},
+{"symbol": "GE", "company": "General Electric Co", "price": "6.69", "change": "-1.62%", "volumne": "15,761,094"}
+]

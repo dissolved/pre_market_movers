@@ -1,0 +1,12 @@
+[
+{"symbol": "EFX", "company": "Equifax Inc", "price": "144.00", "change": "+14.46%", "volumne": "300"},
+{"symbol": "LH", "company": "Laboratory Corporati...", "price": "151.50", "change": "+4.05%", "volumne": "35,687"},
+{"symbol": "DOV", "company": "Dover Corp", "price": "88.40", "change": "+2.83%", "volumne": "100"},
+{"symbol": "AES", "company": "AES Corp", "price": "13.04", "change": "+2.68%", "volumne": "840"},
+{"symbol": "SJM", "company": "J M Smucker Co", "price": "123.70", "change": "+1.71%", "volumne": "335"},
+{"symbol": "PH", "company": "Parker-Hannifin Corp...", "price": "122.46", "change": "-8.86%", "volumne": "826"},
+{"symbol": "CMA", "company": "Comerica Inc", "price": "27.84", "change": "-6.01%", "volumne": "484"},
+{"symbol": "BKR", "company": "Baker Hughes Co", "price": "12.20", "change": "-6.01%", "volumne": "19,102"},
+{"symbol": "HP", "company": "Helmerich and Payne ...", "price": "16.62", "change": "-5.78%", "volumne": "1,288"},
+{"symbol": "SLB", "company": "Schlumberger NV", "price": "14.39", "change": "-5.39%", "volumne": "608,067"}
+]
