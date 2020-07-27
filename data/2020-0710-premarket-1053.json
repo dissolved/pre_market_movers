@@ -1,0 +1,12 @@
+[
+{"symbol": "IP", "company": "International Paper ...", "price": "33.80", "change": "+2.08%", "volumne": "3,294"},
+{"symbol": "UNH", "company": "UnitedHealth Group I...", "price": "294.66", "change": "+1.20%", "volumne": "14,054"},
+{"symbol": "LIN", "company": "Linde PLC", "price": "224.30", "change": "+1.06%", "volumne": "22,963"},
+{"symbol": "AMP", "company": "Ameriprise Financial...", "price": "144.75", "change": "+1.02%", "volumne": "346"},
+{"symbol": "MO", "company": "Altria Group Inc", "price": "38.99", "change": "+1.01%", "volumne": "32,426"},
+{"symbol": "HFC", "company": "HollyFrontier Corp", "price": "25.48", "change": "-2.79%", "volumne": "1,826"},
+{"symbol": "DRI", "company": "Darden Restaurants I...", "price": "70.00", "change": "-1.88%", "volumne": "13,641"},
+{"symbol": "COTY", "company": "Coty Inc", "price": "4.04", "change": "-1.46%", "volumne": "111,471"},
+{"symbol": "DAL", "company": "Delta Air Lines Inc", "price": "25.30", "change": "-1.36%", "volumne": "524,807"},
+{"symbol": "OXY", "company": "Occidental Petroleum...", "price": "16.06", "change": "-1.35%", "volumne": "496,977"}
+]

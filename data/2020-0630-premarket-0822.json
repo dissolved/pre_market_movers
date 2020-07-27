@@ -1,0 +1,12 @@
+[
+{"symbol": "SPG", "company": "Simon Property Group...", "price": "72.85", "change": "+6.93%", "volumne": "29,863"},
+{"symbol": "CAG", "company": "Conagra Brands Inc", "price": "35.20", "change": "+4.45%", "volumne": "18,818"},
+{"symbol": "MHK", "company": "Mohawk Industries In...", "price": "102.00", "change": "+2.20%", "volumne": "110"},
+{"symbol": "FTI", "company": "TechnipFMC PLC", "price": "6.93", "change": "+1.91%", "volumne": "4,000"},
+{"symbol": "LUV", "company": "Southwest Airlines C...", "price": "35.67", "change": "+1.80%", "volumne": "148,767"},
+{"symbol": "HFC", "company": "HollyFrontier Corp", "price": "27.80", "change": "-2.28%", "volumne": "2,900"},
+{"symbol": "BA", "company": "Boeing Co", "price": "191.50", "change": "-1.54%", "volumne": "394,706"},
+{"symbol": "MOS", "company": "Mosaic Co", "price": "12.46", "change": "-1.50%", "volumne": "130"},
+{"symbol": "LLY", "company": "Eli Lilly and Co", "price": "161.11", "change": "-0.99%", "volumne": "810"},
+{"symbol": "WFC", "company": "Wells Fargo & Co", "price": "25.49", "change": "-0.82%", "volumne": "73,247"}
+]

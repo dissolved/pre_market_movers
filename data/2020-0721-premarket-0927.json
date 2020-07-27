@@ -1,0 +1,12 @@
+[
+{"symbol": "PLD", "company": "Prologis Inc", "price": "99.50", "change": "+5.04%", "volumne": "27,920"},
+{"symbol": "IBM", "company": "International Busine...", "price": "132.62", "change": "+4.95%", "volumne": "137,319"},
+{"symbol": "HAL", "company": "Halliburton Co", "price": "14.01", "change": "+4.47%", "volumne": "113,454"},
+{"symbol": "CMA", "company": "Comerica Inc", "price": "36.35", "change": "+4.07%", "volumne": "3,709"},
+{"symbol": "DVN", "company": "Devon Energy Corp", "price": "10.63", "change": "+3.51%", "volumne": "77,598"},
+{"symbol": "TIF", "company": "Tiffany & Co", "price": "120.01", "change": "-1.15%", "volumne": "103"},
+{"symbol": "PNR", "company": "Pentair PLC", "price": "41.04", "change": "-0.89%", "volumne": "105"},
+{"symbol": "JNPR", "company": "Juniper Networks Inc...", "price": "23.75", "change": "-0.75%", "volumne": "330"},
+{"symbol": "PGR", "company": "Progressive Corp", "price": "87.54", "change": "-0.67%", "volumne": "173"},
+{"symbol": "AES", "company": "AES Corp", "price": "15.17", "change": "-0.59%", "volumne": "492"}
+]

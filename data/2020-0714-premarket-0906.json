@@ -1,0 +1,12 @@
+[
+{"symbol": "HBI", "company": "HanesBrands Inc", "price": "12.14", "change": "+5.93%", "volumne": "33,848"},
+{"symbol": "XYL", "company": "Xylem Inc", "price": "71.00", "change": "+5.44%", "volumne": "9,453"},
+{"symbol": "FIS", "company": "Fidelity National In...", "price": "141.12", "change": "+4.16%", "volumne": "102"},
+{"symbol": "LH", "company": "Laboratory Corporati...", "price": "184.00", "change": "+3.22%", "volumne": "143"},
+{"symbol": "DPZ", "company": "Domino's Pizza Inc", "price": "409.51", "change": "+2.03%", "volumne": "1,717"},
+{"symbol": "MHK", "company": "Mohawk Industries In...", "price": "70.90", "change": "-7.44%", "volumne": "18,549"},
+{"symbol": "WFC", "company": "Wells Fargo & Co", "price": "24.26", "change": "-4.53%", "volumne": "2,284,734"},
+{"symbol": "TRV", "company": "Travelers Companies ...", "price": "111.11", "change": "-2.74%", "volumne": "7,749"},
+{"symbol": "CCL", "company": "Carnival Corp", "price": "14.90", "change": "-2.49%", "volumne": "598,918"},
+{"symbol": "NCLH", "company": "Norwegian Cruise Lin...", "price": "15.24", "change": "-2.31%", "volumne": "261,440"}
+]

@@ -1,0 +1,12 @@
+[
+{"symbol": "ROL", "company": "Rollins Inc", "price": "45.06", "change": "+5.40%", "volumne": "5,423"},
+{"symbol": "DG", "company": "Dollar General Corp", "price": "188.71", "change": "+0.84%", "volumne": "671"},
+{"symbol": "HIG", "company": "Hartford Financial S...", "price": "38.50", "change": "+0.51%", "volumne": "1,740"},
+{"symbol": "PLD", "company": "Prologis Inc", "price": "95.99", "change": "+0.45%", "volumne": "972"},
+{"symbol": "APD", "company": "Air Products and Che...", "price": "249.75", "change": "+0.34%", "volumne": "729"},
+{"symbol": "D", "company": "Dominion Energy Inc", "price": "71.15", "change": "-3.32%", "volumne": "208,485"},
+{"symbol": "BKR", "company": "Baker Hughes Co", "price": "15.00", "change": "-3.28%", "volumne": "720"},
+{"symbol": "COG", "company": "Cabot Oil & Gas Corp...", "price": "17.39", "change": "-2.96%", "volumne": "6,982"},
+{"symbol": "CXO", "company": "Concho Resources Inc...", "price": "50.40", "change": "-2.70%", "volumne": "2,300"},
+{"symbol": "URI", "company": "United Rentals Inc", "price": "146.88", "change": "-2.56%", "volumne": "2,065"}
+]

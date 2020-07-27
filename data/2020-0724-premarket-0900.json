@@ -1,0 +1,12 @@
+[
+{"symbol": "EW", "company": "Edwards Lifesciences...", "price": "80.28", "change": "+3.83%", "volumne": "18,575"},
+{"symbol": "PHM", "company": "Pultegroup Inc", "price": "42.34", "change": "+2.54%", "volumne": "6,030"},
+{"symbol": "FE", "company": "FirstEnergy Corp", "price": "27.98", "change": "+2.12%", "volumne": "73,885"},
+{"symbol": "UAA", "company": "Under Armour Inc", "price": "11.04", "change": "+1.56%", "volumne": "24,647"},
+{"symbol": "SLB", "company": "Schlumberger NV", "price": "19.58", "change": "+1.45%", "volumne": "213,218"},
+{"symbol": "CNC", "company": "Centene Corp", "price": "65.26", "change": "-3.66%", "volumne": "16,042"},
+{"symbol": "HST", "company": "Host Hotels & Resort...", "price": "10.36", "change": "-3.45%", "volumne": "8,380"},
+{"symbol": "MAS", "company": "Masco Corp", "price": "52.61", "change": "-3.11%", "volumne": "237"},
+{"symbol": "TPR", "company": "Tapestry Inc", "price": "13.46", "change": "-2.96%", "volumne": "4,585"},
+{"symbol": "NRG", "company": "NRG Energy Inc", "price": "32.25", "change": "-2.95%", "volumne": "50,162"}
+]

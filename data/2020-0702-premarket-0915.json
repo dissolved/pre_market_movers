@@ -1,0 +1,12 @@
+[
+{"symbol": "YUM", "company": "Yum! Brands Inc", "price": "93.99", "change": "+8.72%", "volumne": "536"},
+{"symbol": "CCL", "company": "Carnival Corp", "price": "17.20", "change": "+5.13%", "volumne": "803,535"},
+{"symbol": "NCLH", "company": "Norwegian Cruise Lin...", "price": "17.19", "change": "+4.69%", "volumne": "785,319"},
+{"symbol": "COTY", "company": "Coty Inc", "price": "4.50", "change": "+4.17%", "volumne": "144,972"},
+{"symbol": "NOV", "company": "National Oilwell Var...", "price": "12.30", "change": "+4.15%", "volumne": "439"},
+{"symbol": "SLG", "company": "SL Green Realty Corp...", "price": "47.00", "change": "-3.17%", "volumne": "107"},
+{"symbol": "NEM", "company": "Newmont Corporation", "price": "60.69", "change": "-1.09%", "volumne": "17,786"},
+{"symbol": "MKC", "company": "McCormick & Company ...", "price": "177.74", "change": "-0.64%", "volumne": "126"},
+{"symbol": "IVZ", "company": "Invesco Ltd", "price": "10.20", "change": "-0.58%", "volumne": "975"},
+{"symbol": "ED", "company": "Consolidated Edison ...", "price": "72.71", "change": "-0.53%", "volumne": "1,822"}
+]

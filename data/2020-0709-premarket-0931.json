@@ -1,0 +1,12 @@
+[
+{"symbol": "PNR", "company": "Pentair PLC", "price": "39.50", "change": "+7.86%", "volumne": "635"},
+{"symbol": "CCL", "company": "Carnival Corp", "price": "15.84", "change": "+3.39%", "volumne": "2,100,263"},
+{"symbol": "PAYC", "company": "Paycom Software Inc", "price": "328.64", "change": "+2.98%", "volumne": "236"},
+{"symbol": "MSCI", "company": "MSCI Inc", "price": "379.90", "change": "+2.48%", "volumne": "136"},
+{"symbol": "DE", "company": "Deere & Co", "price": "161.86", "change": "+2.20%", "volumne": "130"},
+{"symbol": "CVS", "company": "CVS Health Corp", "price": "62.05", "change": "-1.73%", "volumne": "63,911"},
+{"symbol": "UAA", "company": "Under Armour Inc", "price": "9.50", "change": "-1.14%", "volumne": "817"},
+{"symbol": "UA", "company": "Under Armour Inc", "price": "8.55", "change": "-1.04%", "volumne": "302"},
+{"symbol": "MHK", "company": "Mohawk Industries In...", "price": "90.50", "change": "-0.97%", "volumne": "120"},
+{"symbol": "FTI", "company": "TechnipFMC PLC", "price": "7.36", "change": "-0.94%", "volumne": "57,440"}
+]

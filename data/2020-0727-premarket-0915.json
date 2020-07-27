@@ -1,0 +1,12 @@
+[
+{"symbol": "TPR", "company": "Tapestry Inc", "price": "14.11", "change": "+4.75%", "volumne": "8,991"},
+{"symbol": "NEM", "company": "Newmont Corporation", "price": "68.86", "change": "+3.16%", "volumne": "131,970"},
+{"symbol": "APTV", "company": "Aptiv PLC", "price": "84.79", "change": "+3.09%", "volumne": "208"},
+{"symbol": "PLD", "company": "Prologis Inc", "price": "102.88", "change": "+2.97%", "volumne": "1,616"},
+{"symbol": "APD", "company": "Air Products and Che...", "price": "300.00", "change": "+2.91%", "volumne": "421"},
+{"symbol": "UA", "company": "Under Armour Inc", "price": "9.51", "change": "-3.26%", "volumne": "66,727"},
+{"symbol": "UAA", "company": "Under Armour Inc", "price": "10.58", "change": "-3.02%", "volumne": "63,703"},
+{"symbol": "ADM", "company": "Archer-Daniels-Midla...", "price": "41.17", "change": "-2.19%", "volumne": "8,341"},
+{"symbol": "ALB", "company": "Albemarle Corp", "price": "85.21", "change": "-2.10%", "volumne": "666"},
+{"symbol": "CBRE", "company": "CBRE Group Inc", "price": "42.50", "change": "-1.53%", "volumne": "379"}
+]

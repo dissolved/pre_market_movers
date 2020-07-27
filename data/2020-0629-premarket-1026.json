@@ -1,0 +1,12 @@
+[
+{"symbol": "COTY", "company": "Coty Inc", "price": "4.80", "change": "+14.83%", "volumne": "1,802,486"},
+{"symbol": "GPS", "company": "Gap Inc", "price": "12.89", "change": "+6.79%", "volumne": "1,126,950"},
+{"symbol": "MOS", "company": "Mosaic Co", "price": "12.59", "change": "+4.22%", "volumne": "24,528"},
+{"symbol": "WEC", "company": "WEC Energy Group Inc...", "price": "88.71", "change": "+3.71%", "volumne": "202"},
+{"symbol": "PVH", "company": "PVH Corp", "price": "45.88", "change": "+2.73%", "volumne": "1,800"},
+{"symbol": "PPG", "company": "PPG Industries Inc", "price": "101.00", "change": "-1.12%", "volumne": "141"},
+{"symbol": "FTI", "company": "TechnipFMC PLC", "price": "6.98", "change": "-0.85%", "volumne": "23,413"},
+{"symbol": "NCLH", "company": "Norwegian Cruise Lin...", "price": "15.15", "change": "-0.85%", "volumne": "746,907"},
+{"symbol": "NOV", "company": "National Oilwell Var...", "price": "12.11", "change": "-0.66%", "volumne": "204"},
+{"symbol": "MTB", "company": "M&T Bank Corp", "price": "99.86", "change": "-0.60%", "volumne": "341"}
+]

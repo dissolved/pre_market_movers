@@ -1,0 +1,12 @@
+[
+{"symbol": "HCA", "company": "HCA Healthcare Inc", "price": "116.00", "change": "+6.10%", "volumne": "42,443"},
+{"symbol": "PFE", "company": "Pfizer Inc", "price": "38.68", "change": "+5.42%", "volumne": "6,639,344"},
+{"symbol": "BBY", "company": "Best Buy Co Inc", "price": "95.00", "change": "+5.23%", "volumne": "29,123"},
+{"symbol": "APH", "company": "Amphenol Corp", "price": "106.81", "change": "+4.61%", "volumne": "3,278"},
+{"symbol": "DOV", "company": "Dover Corp", "price": "108.00", "change": "+4.36%", "volumne": "116"},
+{"symbol": "FE", "company": "FirstEnergy Corp", "price": "31.03", "change": "-9.40%", "volumne": "660,808"},
+{"symbol": "KSS", "company": "Kohls Corp", "price": "21.29", "change": "-4.66%", "volumne": "89,043"},
+{"symbol": "COF", "company": "Capital One Financia...", "price": "60.05", "change": "-4.49%", "volumne": "10,466"},
+{"symbol": "HFC", "company": "HollyFrontier Corp", "price": "27.26", "change": "-1.99%", "volumne": "118"},
+{"symbol": "PXD", "company": "Pioneer Natural Reso...", "price": "101.00", "change": "-1.67%", "volumne": "538"}
+]

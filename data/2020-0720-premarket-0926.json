@@ -1,0 +1,12 @@
+[
+{"symbol": "HAL", "company": "Halliburton Co", "price": "13.92", "change": "+6.42%", "volumne": "522,904"},
+{"symbol": "PFE", "company": "Pfizer Inc", "price": "37.68", "change": "+3.94%", "volumne": "912,761"},
+{"symbol": "CAH", "company": "Cardinal Health Inc", "price": "54.48", "change": "+2.54%", "volumne": "1,724"},
+{"symbol": "DGX", "company": "Quest Diagnostics In...", "price": "127.75", "change": "+2.11%", "volumne": "9,620"},
+{"symbol": "SYF", "company": "Synchrony Financial", "price": "23.62", "change": "+1.77%", "volumne": "537"},
+{"symbol": "GPS", "company": "Gap Inc", "price": "12.64", "change": "-1.94%", "volumne": "28,620"},
+{"symbol": "HWM", "company": "Howmet Aerospace Inc...", "price": "16.20", "change": "-1.52%", "volumne": "263"},
+{"symbol": "BBY", "company": "Best Buy Co Inc", "price": "86.76", "change": "-1.36%", "volumne": "679"},
+{"symbol": "WMB", "company": "Williams Companies I...", "price": "19.51", "change": "-1.32%", "volumne": "946"},
+{"symbol": "RF", "company": "Regions Financial Co...", "price": "10.20", "change": "-1.16%", "volumne": "1,934"}
+]

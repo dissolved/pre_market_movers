@@ -1,0 +1,12 @@
+[
+{"symbol": "FDX", "company": "FedEx Corp", "price": "156.90", "change": "+11.90%", "volumne": "492,495"},
+{"symbol": "PFE", "company": "Pfizer Inc", "price": "34.46", "change": "+5.38%", "volumne": "3,716,278"},
+{"symbol": "UPS", "company": "United Parcel Servic...", "price": "116.93", "change": "+5.17%", "volumne": "114,168"},
+{"symbol": "STZ", "company": "Constellation Brands...", "price": "183.00", "change": "+4.60%", "volumne": "30,989"},
+{"symbol": "RCL", "company": "Royal Caribbean Crui...", "price": "52.35", "change": "+4.08%", "volumne": "322,028"},
+{"symbol": "RMD", "company": "Resmed Inc", "price": "187.01", "change": "-2.60%", "volumne": "1,699"},
+{"symbol": "MHK", "company": "Mohawk Industries In...", "price": "99.67", "change": "-2.05%", "volumne": "6,212"},
+{"symbol": "BK", "company": "Bank of New York Mel...", "price": "37.97", "change": "-1.76%", "volumne": "110"},
+{"symbol": "GIS", "company": "General Mills Inc", "price": "60.75", "change": "-1.46%", "volumne": "128,127"},
+{"symbol": "HES", "company": "Hess Corp", "price": "51.25", "change": "-1.08%", "volumne": "292"}
+]

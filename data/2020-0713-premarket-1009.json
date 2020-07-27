@@ -1,0 +1,12 @@
+[
+{"symbol": "PKI", "company": "PerkinElmer Inc", "price": "105.43", "change": "+3.90%", "volumne": "1,389"},
+{"symbol": "MOS", "company": "Mosaic Co", "price": "12.75", "change": "+3.66%", "volumne": "16,654"},
+{"symbol": "GL", "company": "Globe Life Inc", "price": "74.79", "change": "+3.42%", "volumne": "1,000"},
+{"symbol": "PFE", "company": "Pfizer Inc", "price": "34.80", "change": "+2.87%", "volumne": "1,328,311"},
+{"symbol": "FCX", "company": "Freeport-McMoRan Inc...", "price": "13.33", "change": "+2.78%", "volumne": "99,399"},
+{"symbol": "OTIS", "company": "Otis Worldwide Corp", "price": "56.62", "change": "-0.63%", "volumne": "4,725"},
+{"symbol": "AVY", "company": "Avery Dennison Corp", "price": "111.62", "change": "-0.52%", "volumne": "1,149"},
+{"symbol": "L", "company": "Loews Corp", "price": "34.54", "change": "-0.49%", "volumne": "692"},
+{"symbol": "DRI", "company": "Darden Restaurants I...", "price": "73.98", "change": "-0.44%", "volumne": "21,217"},
+{"symbol": "AEP", "company": "American Electric Po...", "price": "83.81", "change": "-0.40%", "volumne": "1,095"}
+]

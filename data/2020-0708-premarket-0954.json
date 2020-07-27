@@ -1,0 +1,12 @@
+[
+{"symbol": "FTI", "company": "TechnipFMC PLC", "price": "7.76", "change": "+9.14%", "volumne": "363,939"},
+{"symbol": "TPR", "company": "Tapestry Inc", "price": "13.10", "change": "+3.56%", "volumne": "37,423"},
+{"symbol": "KSS", "company": "Kohls Corp", "price": "20.95", "change": "+3.20%", "volumne": "231,482"},
+{"symbol": "AFL", "company": "Aflac Inc", "price": "35.62", "change": "+2.89%", "volumne": "297"},
+{"symbol": "PHM", "company": "Pultegroup Inc", "price": "34.84", "change": "+2.71%", "volumne": "1,718"},
+{"symbol": "ALL", "company": "Allstate Corp", "price": "89.87", "change": "-3.00%", "volumne": "82,582"},
+{"symbol": "HFC", "company": "HollyFrontier Corp", "price": "26.40", "change": "-2.58%", "volumne": "3,248"},
+{"symbol": "BWA", "company": "Borgwarner Inc", "price": "34.50", "change": "-1.54%", "volumne": "10,214"},
+{"symbol": "ALK", "company": "Alaska Air Group Inc...", "price": "35.60", "change": "-1.39%", "volumne": "12,089"},
+{"symbol": "NCLH", "company": "Norwegian Cruise Lin...", "price": "15.10", "change": "-1.11%", "volumne": "286,180"}
+]
