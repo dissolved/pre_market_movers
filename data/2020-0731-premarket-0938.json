@@ -1,0 +1,12 @@
+[
+{"symbol": "JCI", "company": "Johnson Controls Int...", "price": "38.90", "change": "+4.46%", "volumne": "4,021"},
+{"symbol": "CHD", "company": "Church & Dwight Co I...", "price": "93.89", "change": "+4.25%", "volumne": "43,885"},
+{"symbol": "DLR", "company": "Digital Realty Trust...", "price": "163.50", "change": "+3.01%", "volumne": "2,187"},
+{"symbol": "EQR", "company": "Equity Residential", "price": "55.42", "change": "+2.72%", "volumne": "1,119"},
+{"symbol": "MRK", "company": "Merck & Co Inc", "price": "81.00", "change": "+2.54%", "volumne": "167,273"},
+{"symbol": "CVX", "company": "Chevron Corp", "price": "82.75", "change": "-4.08%", "volumne": "173,198"},
+{"symbol": "WST", "company": "West Pharmaceutical ...", "price": "260.00", "change": "-3.33%", "volumne": "5,436"},
+{"symbol": "SYK", "company": "Stryker Corp", "price": "195.50", "change": "-2.35%", "volumne": "218"},
+{"symbol": "COP", "company": "ConocoPhillips", "price": "36.88", "change": "-2.02%", "volumne": "24,024"},
+{"symbol": "CARR", "company": "Carrier Global Corp", "price": "26.41", "change": "-1.82%", "volumne": "93,775"}
+]

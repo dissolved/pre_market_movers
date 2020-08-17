@@ -1,0 +1,12 @@
+[
+{"symbol": "NCLH", "company": "Norwegian Cruise Lin...", "price": "16.21", "change": "+3.64%", "volumne": "425,396"},
+{"symbol": "RCL", "company": "Royal Caribbean Crui...", "price": "60.79", "change": "+3.61%", "volumne": "123,279"},
+{"symbol": "MRO", "company": "Marathon Oil Corp", "price": "6.12", "change": "+3.03%", "volumne": "213,233"},
+{"symbol": "MPC", "company": "Marathon Petroleum C...", "price": "38.06", "change": "+3.00%", "volumne": "30,455"},
+{"symbol": "LNC", "company": "Lincoln National Cor...", "price": "41.00", "change": "+2.99%", "volumne": "381"},
+{"symbol": "EIX", "company": "Edison International...", "price": "53.09", "change": "-0.91%", "volumne": "276"},
+{"symbol": "DE", "company": "Deere & Co", "price": "192.55", "change": "-0.35%", "volumne": "8,046"},
+{"symbol": "JNPR", "company": "Juniper Networks Inc...", "price": "25.50", "change": "-0.08%", "volumne": "68,010"},
+{"symbol": "ABT", "company": "Abbott Laboratories", "price": "99.00", "change": "-0.06%", "volumne": "712"},
+{"symbol": "VTR", "company": "Ventas Inc", "price": "41.50", "change": "-0.05%", "volumne": "5,967"}
+]

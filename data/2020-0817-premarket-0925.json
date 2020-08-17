@@ -1,0 +1,12 @@
+[
+{"symbol": "DVA", "company": "DaVita Inc", "price": "85.50", "change": "+4.05%", "volumne": "7,995"},
+{"symbol": "NEM", "company": "Newmont Corporation", "price": "66.40", "change": "+3.99%", "volumne": "60,576"},
+{"symbol": "GM", "company": "General Motors Co", "price": "28.57", "change": "+2.55%", "volumne": "231,885"},
+{"symbol": "KR", "company": "Kroger Co", "price": "36.13", "change": "+2.09%", "volumne": "21,758"},
+{"symbol": "BBY", "company": "Best Buy Co Inc", "price": "111.68", "change": "+2.00%", "volumne": "15,392"},
+{"symbol": "FTI", "company": "TechnipFMC PLC", "price": "8.50", "change": "-1.62%", "volumne": "4,064"},
+{"symbol": "OXY", "company": "Occidental Petroleum...", "price": "14.42", "change": "-1.50%", "volumne": "169,682"},
+{"symbol": "NOC", "company": "NORTHROP GRUMMAN COR...", "price": "337.56", "change": "-1.32%", "volumne": "482"},
+{"symbol": "CTVA", "company": "Corteva Inc", "price": "27.51", "change": "-1.29%", "volumne": "3,755"},
+{"symbol": "UA", "company": "Under Armour Inc", "price": "9.48", "change": "-1.25%", "volumne": "2,156"}
+]

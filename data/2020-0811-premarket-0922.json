@@ -1,0 +1,12 @@
+[
+{"symbol": "NCLH", "company": "Norwegian Cruise Lin...", "price": "16.52", "change": "+9.19%", "volumne": "2,236,261"},
+{"symbol": "RCL", "company": "Royal Caribbean Crui...", "price": "61.39", "change": "+7.12%", "volumne": "523,796"},
+{"symbol": "CCL", "company": "Carnival Corp", "price": "16.53", "change": "+7.06%", "volumne": "2,334,118"},
+{"symbol": "MGM", "company": "MGM Resorts Internat...", "price": "23.07", "change": "+6.56%", "volumne": "542,227"},
+{"symbol": "HBI", "company": "HanesBrands Inc", "price": "16.71", "change": "+5.89%", "volumne": "59,313"},
+{"symbol": "NEM", "company": "Newmont Corporation", "price": "64.78", "change": "-4.58%", "volumne": "57,062"},
+{"symbol": "IFF", "company": "International Flavor...", "price": "125.72", "change": "-3.70%", "volumne": "1,186"},
+{"symbol": "SYY", "company": "Sysco Corp", "price": "58.78", "change": "-2.20%", "volumne": "34,110"},
+{"symbol": "OXY", "company": "Occidental Petroleum...", "price": "16.22", "change": "-1.58%", "volumne": "721,191"},
+{"symbol": "ECL", "company": "Ecolab Inc", "price": "193.64", "change": "-0.85%", "volumne": "421"}
+]

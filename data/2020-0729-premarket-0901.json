@@ -1,0 +1,12 @@
+[
+{"symbol": "LB", "company": "L Brands Inc", "price": "22.95", "change": "+20.03%", "volumne": "170,055"},
+{"symbol": "TT", "company": "Trane Technologies P...", "price": "111.00", "change": "+7.03%", "volumne": "2,634"},
+{"symbol": "BEN", "company": "Franklin Resources I...", "price": "21.60", "change": "+5.06%", "volumne": "795"},
+{"symbol": "GM", "company": "General Motors Co", "price": "27.40", "change": "+4.06%", "volumne": "300,784"},
+{"symbol": "HRB", "company": "H & R Block Inc", "price": "15.38", "change": "+3.99%", "volumne": "19,711"},
+{"symbol": "MHK", "company": "Mohawk Industries In...", "price": "83.00", "change": "-2.51%", "volumne": "149"},
+{"symbol": "V", "company": "Visa Inc", "price": "193.69", "change": "-1.55%", "volumne": "17,329"},
+{"symbol": "COG", "company": "Cabot Oil & Gas Corp...", "price": "18.00", "change": "-1.48%", "volumne": "303"},
+{"symbol": "UAA", "company": "Under Armour Inc", "price": "11.15", "change": "-1.33%", "volumne": "11,876"},
+{"symbol": "DHR", "company": "Danaher Corp", "price": "196.38", "change": "-1.32%", "volumne": "17,483"}
+]
