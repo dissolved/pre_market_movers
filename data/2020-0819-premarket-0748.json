@@ -1,0 +1,12 @@
+[
+{"symbol": "AMCR", "company": "Amcor PLC", "price": "11.90", "change": "+7.40%", "volumne": "4,007"},
+{"symbol": "TGT", "company": "Target Corp", "price": "146.03", "change": "+6.67%", "volumne": "490,735"},
+{"symbol": "LUV", "company": "Southwest Airlines C...", "price": "35.02", "change": "+2.52%", "volumne": "133,698"},
+{"symbol": "L", "company": "Loews Corp", "price": "37.12", "change": "+2.06%", "volumne": "103"},
+{"symbol": "FCX", "company": "Freeport-McMoRan Inc...", "price": "14.68", "change": "+1.87%", "volumne": "2,135"},
+{"symbol": "A", "company": "Agilent Technologies...", "price": "95.11", "change": "-2.81%", "volumne": "758"},
+{"symbol": "KSS", "company": "Kohls Corp", "price": "19.59", "change": "-2.10%", "volumne": "34,560"},
+{"symbol": "FTI", "company": "TechnipFMC PLC", "price": "7.94", "change": "-1.49%", "volumne": "6,654"},
+{"symbol": "NEM", "company": "Newmont Corporation", "price": "67.00", "change": "-1.03%", "volumne": "2,460"},
+{"symbol": "PPL", "company": "PPL Corp", "price": "28.06", "change": "-0.99%", "volumne": "104"}
+]

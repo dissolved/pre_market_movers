@@ -1,0 +1,12 @@
+[
+{"symbol": "NEE", "company": "Nextera Energy Inc", "price": "296.30", "change": "+5.10%", "volumne": "28,490"},
+{"symbol": "PAYC", "company": "Paycom Software Inc", "price": "280.00", "change": "+2.70%", "volumne": "192"},
+{"symbol": "AMT", "company": "American Tower Corp", "price": "260.00", "change": "+2.40%", "volumne": "750"},
+{"symbol": "USB", "company": "U.S. Bancorp", "price": "38.77", "change": "+2.38%", "volumne": "1,322"},
+{"symbol": "WU", "company": "Western Union Co", "price": "22.86", "change": "+2.30%", "volumne": "13,445"},
+{"symbol": "LEN", "company": "Lennar Corp", "price": "76.21", "change": "-3.53%", "volumne": "38,633"},
+{"symbol": "CCL", "company": "Carnival Corp", "price": "17.37", "change": "-2.69%", "volumne": "1,813,599"},
+{"symbol": "BKR", "company": "Baker Hughes Co", "price": "14.35", "change": "-1.91%", "volumne": "102"},
+{"symbol": "RCL", "company": "Royal Caribbean Crui...", "price": "70.50", "change": "-0.62%", "volumne": "64,525"},
+{"symbol": "CLX", "company": "Clorox Co", "price": "216.25", "change": "-0.56%", "volumne": "248"}
+]

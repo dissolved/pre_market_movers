@@ -1,0 +1,12 @@
+[
+{"symbol": "ORCL", "company": "Oracle Corp", "price": "60.39", "change": "+5.95%", "volumne": "5,138,104"},
+{"symbol": "FDX", "company": "FedEx Corp", "price": "241.60", "change": "+3.78%", "volumne": "105,979"},
+{"symbol": "GPC", "company": "Genuine Parts Co", "price": "103.50", "change": "+2.92%", "volumne": "704"},
+{"symbol": "COTY", "company": "Coty Inc", "price": "3.61", "change": "+2.85%", "volumne": "103,257"},
+{"symbol": "KIM", "company": "Kimco Realty Corp", "price": "11.99", "change": "+2.83%", "volumne": "10,533"},
+{"symbol": "MGM", "company": "MGM Resorts Internat...", "price": "22.37", "change": "-1.58%", "volumne": "106,567"},
+{"symbol": "KR", "company": "Kroger Co", "price": "33.92", "change": "-1.31%", "volumne": "43,846"},
+{"symbol": "BKR", "company": "Baker Hughes Co", "price": "13.81", "change": "-1.00%", "volumne": "1,005"},
+{"symbol": "HST", "company": "Host Hotels & Resort...", "price": "11.02", "change": "-0.99%", "volumne": "192"},
+{"symbol": "BLL", "company": "Ball Corp", "price": "81.00", "change": "-0.83%", "volumne": "185"}
+]

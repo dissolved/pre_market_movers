@@ -1,0 +1,12 @@
+[
+{"symbol": "GIS", "company": "General Mills Inc", "price": "59.30", "change": "+0.94%", "volumne": "1,503"},
+{"symbol": "F", "company": "Ford Motor Co", "price": "7.07", "change": "+0.71%", "volumne": "665,354"},
+{"symbol": "GE", "company": "General Electric Co", "price": "6.77", "change": "+0.30%", "volumne": "3,769,147"},
+{"symbol": "LLY", "company": "Eli Lilly and Co", "price": "151.40", "change": "+0.29%", "volumne": "5,316"},
+{"symbol": "MHK", "company": "Mohawk Industries In...", "price": "100.50", "change": "+0.21%", "volumne": "2,358"},
+{"symbol": "ORCL", "company": "Oracle Corp", "price": "58.30", "change": "-3.52%", "volumne": "143,980"},
+{"symbol": "CCL", "company": "Carnival Corp", "price": "15.90", "change": "-3.40%", "volumne": "867,317"},
+{"symbol": "GD", "company": "General Dynamics Cor...", "price": "142.00", "change": "-3.26%", "volumne": "16,455"},
+{"symbol": "CARR", "company": "Carrier Global Corp", "price": "29.30", "change": "-3.14%", "volumne": "7,702"},
+{"symbol": "PRGO", "company": "Perrigo Company PLC", "price": "48.31", "change": "-3.07%", "volumne": "4,029"}
+]

@@ -1,0 +1,12 @@
+[
+{"symbol": "CF", "company": "CF Industries Holdin...", "price": "34.32", "change": "+6.16%", "volumne": "100"},
+{"symbol": "DGX", "company": "Quest Diagnostics In...", "price": "110.89", "change": "+3.59%", "volumne": "4,025"},
+{"symbol": "WHR", "company": "Whirlpool Corp", "price": "177.98", "change": "+3.59%", "volumne": "200"},
+{"symbol": "BWA", "company": "Borgwarner Inc", "price": "43.75", "change": "+3.45%", "volumne": "101"},
+{"symbol": "HWM", "company": "Howmet Aerospace Inc...", "price": "17.69", "change": "+3.33%", "volumne": "966"},
+{"symbol": "KMB", "company": "Kimberly-Clark Corp", "price": "146.07", "change": "-3.55%", "volumne": "429"},
+{"symbol": "SYF", "company": "Synchrony Financial", "price": "25.05", "change": "-2.15%", "volumne": "230"},
+{"symbol": "ICE", "company": "Intercontinental Exc...", "price": "99.27", "change": "-1.92%", "volumne": "157,262"},
+{"symbol": "VTR", "company": "Ventas Inc", "price": "43.50", "change": "-1.67%", "volumne": "229"},
+{"symbol": "MOS", "company": "Mosaic Co", "price": "17.76", "change": "-1.15%", "volumne": "585"}
+]

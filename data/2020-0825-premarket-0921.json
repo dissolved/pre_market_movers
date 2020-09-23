@@ -1,0 +1,12 @@
+[
+{"symbol": "FLS", "company": "Flowserve Corp", "price": "33.12", "change": "+9.96%", "volumne": "272"},
+{"symbol": "SJM", "company": "J M Smucker Co", "price": "118.01", "change": "+4.44%", "volumne": "56,518"},
+{"symbol": "GPS", "company": "Gap Inc", "price": "16.15", "change": "+4.19%", "volumne": "136,049"},
+{"symbol": "HON", "company": "Honeywell Internatio...", "price": "165.05", "change": "+3.56%", "volumne": "56,423"},
+{"symbol": "MDT", "company": "Medtronic PLC", "price": "103.50", "change": "+3.37%", "volumne": "53,231"},
+{"symbol": "TIF", "company": "Tiffany & Co", "price": "121.94", "change": "-4.01%", "volumne": "744,381"},
+{"symbol": "BBY", "company": "Best Buy Co Inc", "price": "113.98", "change": "-2.89%", "volumne": "351,233"},
+{"symbol": "AIZ", "company": "Assurant Inc", "price": "121.10", "change": "-2.09%", "volumne": "201"},
+{"symbol": "XOM", "company": "Exxon Mobil Corp", "price": "41.34", "change": "-2.08%", "volumne": "269,243"},
+{"symbol": "RTX", "company": "Raytheon Technologie...", "price": "60.81", "change": "-1.73%", "volumne": "67,734"}
+]

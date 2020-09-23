@@ -1,0 +1,12 @@
+[
+{"symbol": "AZO", "company": "Autozone Inc", "price": "1233.99", "change": "+4.05%", "volumne": "21,660"},
+{"symbol": "KMX", "company": "Carmax Inc", "price": "103.80", "change": "+2.65%", "volumne": "3,060"},
+{"symbol": "KIM", "company": "Kimco Realty Corp", "price": "11.80", "change": "+2.16%", "volumne": "103"},
+{"symbol": "ALK", "company": "Alaska Air Group Inc...", "price": "38.35", "change": "+1.89%", "volumne": "10,062"},
+{"symbol": "BXP", "company": "Boston Properties In...", "price": "82.40", "change": "+1.59%", "volumne": "606"},
+{"symbol": "LYB", "company": "LyondellBasell Indus...", "price": "71.14", "change": "-3.21%", "volumne": "458"},
+{"symbol": "EMN", "company": "Eastman Chemical Co", "price": "79.00", "change": "-1.95%", "volumne": "825"},
+{"symbol": "ORCL", "company": "Oracle Corp", "price": "60.23", "change": "-0.97%", "volumne": "69,237"},
+{"symbol": "DRI", "company": "Darden Restaurants I...", "price": "87.02", "change": "-0.87%", "volumne": "25,133"},
+{"symbol": "MPC", "company": "Marathon Petroleum C...", "price": "31.02", "change": "-0.74%", "volumne": "4,314"}
+]

@@ -1,0 +1,12 @@
+[
+{"symbol": "LB", "company": "L Brands Inc", "price": "29.35", "change": "+3.09%", "volumne": "76,037"},
+{"symbol": "UDR", "company": "UDR Inc", "price": "35.00", "change": "+2.40%", "volumne": "185"},
+{"symbol": "XRX", "company": "Xerox Holdings Corp", "price": "18.47", "change": "+1.43%", "volumne": "3,061"},
+{"symbol": "AFL", "company": "Aflac Inc", "price": "37.50", "change": "+1.27%", "volumne": "239"},
+{"symbol": "NRG", "company": "NRG Energy Inc", "price": "35.71", "change": "+0.85%", "volumne": "111"},
+{"symbol": "EL", "company": "Estee Lauder Compani...", "price": "197.00", "change": "-7.29%", "volumne": "35,154"},
+{"symbol": "KSS", "company": "Kohls Corp", "price": "19.13", "change": "-2.30%", "volumne": "116,008"},
+{"symbol": "GPS", "company": "Gap Inc", "price": "14.58", "change": "-2.02%", "volumne": "4,489"},
+{"symbol": "NCLH", "company": "Norwegian Cruise Lin...", "price": "15.38", "change": "-1.91%", "volumne": "110,485"},
+{"symbol": "RF", "company": "Regions Financial Co...", "price": "11.22", "change": "-1.75%", "volumne": "2,433"}
+]

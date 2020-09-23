@@ -1,0 +1,12 @@
+[
+{"symbol": "NKE", "company": "Nike Inc", "price": "131.02", "change": "+12.11%", "volumne": "518,169"},
+{"symbol": "KMX", "company": "Carmax Inc", "price": "108.50", "change": "+4.03%", "volumne": "12,975"},
+{"symbol": "UA", "company": "Under Armour Inc", "price": "9.87", "change": "+3.57%", "volumne": "46,119"},
+{"symbol": "UAA", "company": "Under Armour Inc", "price": "11.25", "change": "+3.02%", "volumne": "27,203"},
+{"symbol": "VFC", "company": "VF Corp", "price": "70.96", "change": "+2.42%", "volumne": "1,240"},
+{"symbol": "ALB", "company": "Albemarle Corp", "price": "87.60", "change": "-8.02%", "volumne": "34,853"},
+{"symbol": "RSG", "company": "Republic Services In...", "price": "93.28", "change": "-1.89%", "volumne": "994"},
+{"symbol": "AXP", "company": "American Express Co", "price": "96.90", "change": "-1.60%", "volumne": "27,749"},
+{"symbol": "IFF", "company": "International Flavor...", "price": "118.00", "change": "-1.54%", "volumne": "3,252"},
+{"symbol": "NEM", "company": "Newmont Corporation", "price": "62.49", "change": "-1.51%", "volumne": "15,990"}
+]

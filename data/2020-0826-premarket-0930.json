@@ -1,0 +1,12 @@
+[
+{"symbol": "CRM", "company": "Salesforce.Com Inc", "price": "249.39", "change": "+15.43%", "volumne": "792,417"},
+{"symbol": "HPE", "company": "Hewlett Packard Ente...", "price": "9.91", "change": "+6.22%", "volumne": "439,550"},
+{"symbol": "NOW", "company": "ServiceNow Inc", "price": "470.00", "change": "+2.64%", "volumne": "3,518"},
+{"symbol": "LB", "company": "L Brands Inc", "price": "31.13", "change": "+1.67%", "volumne": "1,822"},
+{"symbol": "NOV", "company": "National Oilwell Var...", "price": "12.25", "change": "+1.32%", "volumne": "100"},
+{"symbol": "WU", "company": "Western Union Co", "price": "23.25", "change": "-2.72%", "volumne": "512"},
+{"symbol": "CCL", "company": "Carnival Corp", "price": "15.51", "change": "-2.39%", "volumne": "409,264"},
+{"symbol": "NCLH", "company": "Norwegian Cruise Lin...", "price": "16.46", "change": "-1.73%", "volumne": "214,867"},
+{"symbol": "COG", "company": "Cabot Oil & Gas Corp...", "price": "19.00", "change": "-1.50%", "volumne": "5,041"},
+{"symbol": "NEM", "company": "Newmont Corporation", "price": "63.89", "change": "-1.50%", "volumne": "12,409"}
+]

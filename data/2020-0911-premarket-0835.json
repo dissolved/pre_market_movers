@@ -1,0 +1,9 @@
+[
+{"symbol": "ORCL", "company": "Oracle Corp", "price": "59.55", "change": "+3.87%", "volumne": "54,508"},
+{"symbol": "CXO", "company": "Concho Resources Inc...", "price": "47.19", "change": "+3.74%", "volumne": "209"},
+{"symbol": "LYB", "company": "LyondellBasell Indus...", "price": "73.00", "change": "+2.90%", "volumne": "1,318"},
+{"symbol": "SLB", "company": "Schlumberger NV", "price": "18.18", "change": "+2.65%", "volumne": "8,604"},
+{"symbol": "OMC", "company": "Omnicom Group Inc", "price": "53.00", "change": "+2.32%", "volumne": "202"},
+{"symbol": "HRB", "company": "H & R Block Inc", "price": "14.50", "change": "-1.43%", "volumne": "330"},
+{"symbol": "HLT", "company": "Hilton Worldwide Hol...", "price": "89.01", "change": "-0.39%", "volumne": "390"}
+]

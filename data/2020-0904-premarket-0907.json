@@ -1,0 +1,12 @@
+[
+{"symbol": "WST", "company": "West Pharmaceutical ...", "price": "294.51", "change": "+10.18%", "volumne": "822"},
+{"symbol": "NLSN", "company": "Nielsen Holdings PLC...", "price": "16.10", "change": "+4.82%", "volumne": "1,803"},
+{"symbol": "CCL", "company": "Carnival Corp", "price": "18.28", "change": "+3.98%", "volumne": "1,291,857"},
+{"symbol": "NCLH", "company": "Norwegian Cruise Lin...", "price": "18.25", "change": "+3.52%", "volumne": "585,112"},
+{"symbol": "TFC", "company": "Truist Financial Cor...", "price": "39.80", "change": "+3.08%", "volumne": "3,863"},
+{"symbol": "LB", "company": "L Brands Inc", "price": "28.55", "change": "-3.61%", "volumne": "102"},
+{"symbol": "BKR", "company": "Baker Hughes Co", "price": "14.22", "change": "-2.27%", "volumne": "494"},
+{"symbol": "RL", "company": "Ralph Lauren Corp", "price": "72.50", "change": "-2.23%", "volumne": "137"},
+{"symbol": "ETN", "company": "Eaton Corporation PL...", "price": "100.07", "change": "-2.04%", "volumne": "108"},
+{"symbol": "KSU", "company": "Kansas City Southern...", "price": "185.01", "change": "-1.91%", "volumne": "178"}
+]

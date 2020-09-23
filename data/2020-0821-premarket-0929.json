@@ -1,0 +1,12 @@
+[
+{"symbol": "DE", "company": "Deere & Co", "price": "197.80", "change": "+3.51%", "volumne": "119,388"},
+{"symbol": "KEYS", "company": "Keysight Technologie...", "price": "106.00", "change": "+3.09%", "volumne": "31,965"},
+{"symbol": "UNM", "company": "Unum Group", "price": "18.49", "change": "+2.72%", "volumne": "397"},
+{"symbol": "NRG", "company": "NRG Energy Inc", "price": "35.54", "change": "+2.57%", "volumne": "195"},
+{"symbol": "HRB", "company": "H & R Block Inc", "price": "14.60", "change": "+1.81%", "volumne": "7,961"},
+{"symbol": "LIN", "company": "Linde PLC", "price": "239.10", "change": "-2.53%", "volumne": "16,267"},
+{"symbol": "FCX", "company": "Freeport-McMoRan Inc...", "price": "14.44", "change": "-1.77%", "volumne": "115,711"},
+{"symbol": "FTI", "company": "TechnipFMC PLC", "price": "7.60", "change": "-1.55%", "volumne": "34,174"},
+{"symbol": "COP", "company": "ConocoPhillips", "price": "38.20", "change": "-1.47%", "volumne": "3,823"},
+{"symbol": "NEM", "company": "Newmont Corporation", "price": "66.25", "change": "-1.46%", "volumne": "42,990"}
+]
